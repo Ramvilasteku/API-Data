@@ -1,0 +1,913 @@
+{
+  "men": [
+      {
+          "id": 1,
+          "title": "Mens Viscose Blend Kurta Pyjama Set With Dupatta",
+          "price": "3459Rs",
+          "gender": "Male",
+          "category": "Angarkhas-Bandhgalas",
+          "description": "VASTRAMAY Mens Viscose Blend Kurta Pyjama Set With Dupatta | Angrakha Design Asymmetrical Pleated Viscose Kurta. Comes with solid Pyjama And Mirror Dupatta.",
+          "image": "Mens/men-Angarkhas-Bandhgalas/black.jpg"
+      },
+      {
+          "id": 2,
+          "title": "VASTRAMAY Mens Beige Silk Blend Sherwani Set",
+          "price": "2999Rs",
+          "gender": "Male",
+          "category": "Angarkhas-Bandhgalas",
+          "description": "VASTRAMAY Mens Viscose Blend Kurta Pyjama Set With Dupatta | Angrakha Design Asymmetrical Pleated Viscose Kurta. Comes with solid Pyjama And Mirror Dupatta.",
+          "image": "Mens/men-Angarkhas-Bandhgalas/black1.jpg"
+      },
+      {
+          "id": 3,
+          "title": "Mens Neheru Jacket",
+          "price": "3955Rs",
+          "gender": "Male",
+          "category": "Angarkhas-Bandhgalas",
+          "description": "VASTRAMAY Mens Viscose Blend Kurta Pyjama Set With Dupatta | Angrakha Design Asymmetrical Pleated Viscose Kurta. Comes with solid Pyjama And Mirror Dupatta.",
+          "image": "Mens/men-Angarkhas-Bandhgalas/blue.jpg"
+      },
+      {
+          "id": 4,
+          "title": "Mens Cream Viscose Blend Kurta Pyjama Set",
+          "price": "2459Rs",
+          "gender": "Male",
+          "category": "Angarkhas-Bandhgalas",
+          "description": "VASTRAMAY Mens Viscose Blend Kurta Pyjama Set With Dupatta | Angrakha Design Asymmetrical Pleated Viscose Kurta. Comes with solid Pyjama And Mirror Dupatta.",
+          "image": "Mens/men-Angarkhas-Bandhgalas/gold.jpg"
+      },
+      {
+          "id": 5,
+          "title": "Mens Maroon, Green And White Cotton Blend Jacket, Kurta",
+          "price": "2955Rs",
+          "gender": "Male",
+          "category": "Angarkhas-Bandhgalas",
+          "description": "VASTRAMAY Mens Viscose Blend Kurta Pyjama Set With Dupatta | Angrakha Design Asymmetrical Pleated Viscose Kurta. Comes with solid Pyjama And Mirror Dupatta.",
+          "image": "Mens/men-Angarkhas-Bandhgalas/green.jpg"
+      },
+      {
+          "id": 6,
+          "title": "Mens Viscose Blend Kurta Pyjama Set With Dupatta",
+          "price": "3359Rs",
+          "gender": "Male",
+          "category": "Angarkhas-Bandhgalas",
+          "description": "VASTRAMAY Mens Viscose Blend Kurta Pyjama Set With Dupatta | Angrakha Design Asymmetrical Pleated Viscose Kurta. Comes with solid Pyjama And Mirror Dupatta.",
+          "image": "Mens/men-Angarkhas-Bandhgalas/maroon.jpg"
+      },
+      {
+          "id": 7,
+          "title": "Mens Banarasi Jacquard Jodhpuri",
+          "price": "2279Rs",
+          "gender": "Male",
+          "category": "Angarkhas-Bandhgalas",
+          "description": "VASTRAMAY Mens Viscose Blend Kurta Pyjama Set With Dupatta | Angrakha Design Asymmetrical Pleated Viscose Kurta. Comes with solid Pyjama And Mirror Dupatta.",
+          "image": "Mens/men-Angarkhas-Bandhgalas/maroonB.jpg"
+      },
+      {
+          "id": 8,
+          "title": "KISAH Mens Jodhpuri Bandhgala",
+          "price": "3859Rs",
+          "gender": "Male",
+          "category": "Angarkhas-Bandhgalas",
+          "description": "VASTRAMAY Mens Viscose Blend Kurta Pyjama Set With Dupatta | Angrakha Design Asymmetrical Pleated Viscose Kurta. Comes with solid Pyjama And Mirror Dupatta.",
+          "image": "Mens/men-Angarkhas-Bandhgalas/multicolor.jpg"
+      },
+      {
+          "id": 9,
+          "title": "Mens Viscose Blend Kurta Pyjama Set With Dupatta",
+          "price": "1459Rs",
+          "gender": "Male",
+          "category": "Dhotis",
+          "description": "VASTRAMAY Mens Viscose Blend Kurta Pyjama Set With Dupatta | Angrakha Design Asymmetrical Pleated Viscose Kurta. Comes with solid Pyjama And Mirror Dupatta.",
+          "image": "Mens/men-Dhotis/blue.jpg"
+      },
+      {
+          "id": 10,
+          "title": "VASTRAMAY Mens Beige Silk Blend Sherwani Set",
+          "price": "1999Rs",
+          "gender": "Male",
+          "category": "Dhotis",
+          "description": "VASTRAMAY Mens Viscose Blend Kurta Pyjama Set With Dupatta | Angrakha Design Asymmetrical Pleated Viscose Kurta. Comes with solid Pyjama And Mirror Dupatta.",
+          "image": "Mens/men-Dhotis/BlueC.jpg"
+      },
+      {
+          "id": 11,
+          "title": "Mens Neheru Jacket",
+          "price": "1955Rs",
+          "gender": "Male",
+          "category": "Dhotis",
+          "description": "VASTRAMAY Mens Viscose Blend Kurta Pyjama Set With Dupatta | Angrakha Design Asymmetrical Pleated Viscose Kurta. Comes with solid Pyjama And Mirror Dupatta.",
+          "image": "Mens/men-Dhotis/gold.jpg"
+      },
+      {
+          "id": 12,
+          "title": "Mens Cream Viscose Blend Kurta Pyjama Set",
+          "price": "1459Rs",
+          "gender": "Male",
+          "category": "Dhotis",
+          "description": "VASTRAMAY Mens Viscose Blend Kurta Pyjama Set With Dupatta | Angrakha Design Asymmetrical Pleated Viscose Kurta. Comes with solid Pyjama And Mirror Dupatta.",
+          "image": "Mens/men-Dhotis/green.jpg"
+      },
+      {
+          "id": 13,
+          "title": "Mens Maroon, Green And White Cotton Blend Jacket, Kurta",
+          "price": "1955Rs",
+          "gender": "Male",
+          "category": "Dhotis",
+          "description": "VASTRAMAY Mens Viscose Blend Kurta Pyjama Set With Dupatta | Angrakha Design Asymmetrical Pleated Viscose Kurta. Comes with solid Pyjama And Mirror Dupatta.",
+          "image": "Mens/men-Dhotis/KaviC.jpg"
+      },
+      {
+          "id": 14,
+          "title": "Mens Viscose Blend Kurta Pyjama Set With Dupatta",
+          "price": "1359Rs",
+          "gender": "Male",
+          "category": "Dhotis",
+          "description": "VASTRAMAY Mens Viscose Blend Kurta Pyjama Set With Dupatta | Angrakha Design Asymmetrical Pleated Viscose Kurta. Comes with solid Pyjama And Mirror Dupatta.",
+          "image": "Mens/men-Dhotis/OrangeC.jpg"
+      },
+      {
+          "id": 15,
+          "title": "Mens Banarasi Jacquard Jodhpuri",
+          "price": "1279Rs",
+          "gender": "Male",
+          "category": "Dhotis",
+          "description": "VASTRAMAY Mens Viscose Blend Kurta Pyjama Set With Dupatta | Angrakha Design Asymmetrical Pleated Viscose Kurta. Comes with solid Pyjama And Mirror Dupatta.",
+          "image": "Mens/men-Dhotis/red.jpg"
+      },
+      {
+          "id": 16,
+          "title": "KISAH Mens Jodhpuri Bandhgala",
+          "price": "1859Rs",
+          "gender": "Male",
+          "category": "Dhotis",
+          "description": "VASTRAMAY Mens Viscose Blend Kurta Pyjama Set With Dupatta | Angrakha Design Asymmetrical Pleated Viscose Kurta. Comes with solid Pyjama And Mirror Dupatta.",
+          "image": "Mens/men-Dhotis/RedC.jpg"
+      },
+      {
+          "id": 17,
+          "title": "Full Sleeves Blue Medium Length Pocket Kurta",
+          "price": "1095Rs",
+          "gender": "",
+          "category": "Kurta-Pajama",
+          "description": "Luxurious Fabric: The Cotton fabric's quality, often soft and breathable, not only adds comfort but also gives the kurta a premium and polished appearance",
+          "image": "Mens/men-Kurta-Pajama/blue.jpg"
+      },
+      {
+          "id": 18,
+          "title": "Green Mens Solid Cotton Full Sleeves Medium Length Pocket Kurta",
+          "price": "995Rs",
+          "gender": "Male",
+          "category": "Kurta-Pajama",
+          "description": "Classic Silhouette: The Blue medium length of the kurta offers a refined balance between tradition and modernity, making it adaptable to both formal and casual settings",
+          "image": "Mens/men-Kurta-Pajama/green.jpg"
+      },
+      {
+          "id": 19,
+          "title": "Symbol Cotton Men's Mid Length Regular Kurta",
+          "price": "1195Rs",
+          "gender": "Male",
+          "category": "Kurta-Pajama",
+          "description": "Versatile Pairing: You can easily mix and match it with traditional pyjamas for a complete ethnic look or with slim-fit trousers or jeans for a contemporary twist",
+          "image": "Mens/men-Kurta-Pajama/indigo.jpg"
+      },
+      {
+          "id": 20,
+          "title": "Yellow Color Cotton Full Sleeves Medium Length Pocket Kurta",
+          "price": "899Rs",
+          "gender": "Male",
+          "category": "Kurta-Pajama",
+          "description": "Effortless Elegance: The kurta’s minimalistic yet stylish design allows it to transition smoothly between day and evening wear, making it perfect for a wide range of events",
+          "image": "Mens/men-Kurta-Pajama/lightgreen.jpg"
+      },
+      {
+          "id": 21,
+          "title": "RAMRAJ Mens Maroon Color Pocket Kurta",
+          "price": "1065Rs",
+          "gender": "Male",
+          "category": "Kurta-Pajama",
+          "description": "Two-Side Pockets: The addition of two side pockets enhances practicality without compromising the aesthetic. It adds a modern twist to the traditional kurta, allowing for easy storage of essentials like a phone or wallet.",
+          "image": "Mens/men-Kurta-Pajama/maroon.jpg"
+      },
+      {
+          "id": 22,
+          "title": " Orange Color Mens Solid Cotton Full Sleeves Medium Length Pocket Kurta",
+          "price": "1209Rs",
+          "gender": "Male",
+          "category": "Kurta-Pajama",
+          "description": "Versatile Pairing: You can easily mix and match it with traditional pyjamas for a complete ethnic look or with slim-fit trousers or jeans for a contemporary twist",
+          "image": "Mens/men-Kurta-Pajama/orang.jpg"
+      },
+      {
+          "id": 23,
+          "title": "Fashion Essential Mid Length Printed Kurtas",
+          "price": "989Rs",
+          "gender": "Male",
+          "category": "Kurta-Pajama",
+          "description": "Luxurious Fabric: The Cotton fabric's quality, often soft and breathable, not only adds comfort but also gives the kurta a premium and polished appearance.",
+          "image": "Mens/men-Kurta-Pajama/red.jpg"
+      },
+      {
+          "id": 24,
+          "title": " Sky Blue ColorMen White Regular Kurta",
+          "price": "1095Rs",
+          "gender": "Male",
+          "category": "Kurta-Pajama",
+          "description": "Two-Side Pockets: The addition of two side pockets enhances practicality without compromising the aesthetic. It adds a modern twist to the traditional kurta, allowing for easy storage of essentials like a phone or wallet.",
+          "image": "Mens/men-Kurta-Pajama/skyblue.jpg"
+      },
+      {
+          "id": 25,
+          "title": "Blue Color Full Sleeve Knee Length Indo Western Sherwani With Pajama Set",
+          "price": "2459Rs",
+          "gender": "Male",
+          "category": "Sherwanis",
+          "description": "CRAFTMANSHIP: Our Sherwani sets are meticulously crafted with high quality materials and intricate detailing, a luxurious ethnic attire ensuring superior comfort and durability.",
+          "image": "Mens/men-Sherwanis/blue.jpg"
+      },
+      {
+          "id": 26,
+          "title": "Men's Orange Indo-Western Kurta Sherwani",
+          "price": "5698Rs",
+          "gender": "Male",
+          "category": "Sherwanis",
+          "description": "ELEGANT SHERWANI SET: Discover a wide range of elegantly designed Sherwanis that embody traditional charm and modern style, these sherwani sets are perfect for grooms and groomsmen, featuring exquisite embroidery and opulent designs",
+          "image": "Mens/men-Sherwanis/gold.jpg"
+      },
+      {
+          "id": 27,
+          "title": "Men's Indo-Western Sherwani Trouser Set, Olive Silk Blend, Woven Design Regular Fit",
+          "price": "5969Rs",
+          "gender": "Male",
+          "category": "Sherwanis",
+          "description": "OCCASION AND GIFTING: The Kurta Churidar Set with high-quality fabric can be worn both casually and formally. It is suitable for occasions such as weddings, ceremonies, parties, regular wear, festivals, Lohri, Makar Sankranti, Baisakhi, Holi, Father's Day, Eid, Raksha Bandhan, Dussehra, Diwali, Navratri, Pooja, Christmas, Onam, Ganesha, business meetings, and daily use. Additionally, it can be given as a gift to family and friends.",
+          "image": "Mens/men-Sherwanis/green.jpg"
+      },
+      {
+          "id": 28,
+          "title": "Maroon Color Full Sleeve Length Indo Western Sherwani With Pajama Set",
+          "price": "3989Rs",
+          "gender": "Male",
+          "category": "Sherwanis",
+          "description": "MODERN & CONTEMPORARY DESIGN: While sherwani sets have traditional roots, modern designs have adapted the style to cater to contemporary tastes. Men can find sherwani sets with modern silhouettes, innovative cuts, and contemporary color combinations, blending traditional aesthetics with a fresh and fashionable twist.",
+          "image": "Mens/men-Sherwanis/maroon.jpg"
+      },
+      {
+          "id": 29,
+          "title": "Navy Blue Men's Kurta Indo-Western Sherwani Trouser Set",
+          "price": "2988Rs",
+          "gender": "Male",
+          "category": "Sherwanis",
+          "description": "",
+          "image": "Mens/men-Sherwanis/navyblue.jpg"
+      },
+      {
+          "id": 30,
+          "title": " Men's Ethnic Wear Silk Blend Woven Design Regular Fit",
+          "price": "6298Rs",
+          "gender": "Male",
+          "category": "Sherwanis",
+          "description": "",
+          "image": "Mens/men-Sherwanis/olive.jpg"
+      },
+      {
+          "id": 31,
+          "title": "Men's Beige Silk Blend Sherwani Only Top",
+          "price": "4998Rs",
+          "gender": "Male",
+          "category": "Sherwanis",
+          "description": "Fabric: Silk Blend | Contents: a Imported Jacquard Fabric Designer Indowestern For Men",
+          "image": "Mens/men-Sherwanis/skyblue.jpg"
+      },
+      {
+          "id": 32,
+          "title": "Wine Color Men's Full Sleeve Knee Length Sherwani With Pajama Set",
+          "price": "3798Rs",
+          "gender": "Male",
+          "category": "Sherwanis",
+          "description": "Versatile Design: The Floral Pattern and Classic Silhouette make this Kurta Set suitable for Various Occasions, from Casual Outings to Festive Events.",
+          "image": "Mens/men-Sherwanis/wine.jpg"
+      }
+  ],
+  "ladies": [
+      {
+          "id": 33,
+          "title": "Rayon Floral Printed Embroidered Kurta Set with Dupatta",
+          "price": "2199Rs",
+          "gender": "Ladies",
+          "category": "Dupattas",
+          "description": "Stylish Kurta Set: This Elegant Set features a Beautifully Printed Kurta with intricate Embroidery and a Complementing Dupatta.",
+          "image": "Ladies/Dupattas/black.jpg"
+      },
+      {
+          "id": 34,
+          "title": "Viscose Silk Pant and Chinon Printed Dupatta Sets",
+          "price": "1598Rs",
+          "gender": "Ladies",
+          "category": "Dupattas",
+          "description": "Add a touch of elegance to your wardrobe with this Women's Lavender Viscose Silk set. The intricately embroidered straight kurta pairs beautifully with matching viscose silk pants.",
+          "image": "Ladies/Dupattas/blue.jpg"
+      },
+      {
+          "id": 35,
+          "title": "Women's Embroidered Printed Chanderi Kurti Pant Dupatta Set",
+          "price": "999Rs",
+          "gender": "Ladies",
+          "category": "Dupattas",
+          "description": "Perfect for both casual outings and special occasions, this ensemble combines style and comfort effortlessly.",
+          "image": "Ladies/Dupattas/gold.jpg"
+      },
+      {
+          "id": 36,
+          "title": "Embroidered Printed Chanderi Kurti Pant Dupatta Set",
+          "price": "1289Rs",
+          "gender": "Ladies",
+          "category": "Dupattas",
+          "description": "Versatile Design: The Floral Pattern and Classic Silhouette make this Kurta Set suitable for Various Occasions, from Casual Outings to Festive Events.",
+          "image": "Ladies/Dupattas/goldpink.jpg"
+      },
+      {
+          "id": 37,
+          "title": "Zari Linen Floral Dupatta",
+          "price": "1869Rs",
+          "gender": "Ladies",
+          "category": "Dupattas",
+          "description": "Perfect for both casual outings and special occasions, this ensemble combines style and comfort effortlessly.",
+          "image": "Ladies/Dupattas/green.jpg"
+      },
+      {
+          "id": 38,
+          "title": "Embroidered Straight Kurta with Rayon Pant and Silk Printed Dupatta Sets ",
+          "price": "890Rs",
+          "gender": "Ladies",
+          "category": "Dupattas",
+          "description": "Easy Care: This Kurta Set is Designed for Hassle-Free Maintenance, making it a practical choice for everyday wear.",
+          "image": "Ladies/Dupattas/pink.jpg"
+      },
+      {
+          "id": 39,
+          "title": "Kurta with Rayon Pant and Silk Printed Dupatta Sets (",
+          "price": "1189Rs",
+          "gender": "Ladies",
+          "category": "Dupattas",
+          "description": "Perfect for both casual outings and special occasions, this ensemble combines style and comfort effortlessly.",
+          "image": "Ladies/Dupattas/skyblue.jpg"
+      },
+      {
+          "id": 40,
+          "title": "Women's Printed Dupatta | Zari Linen Floral Dupatta",
+          "price": "1386Rs",
+          "gender": "Ladies",
+          "category": "Dupattas",
+          "description": "Stylish Kurta Set: This Elegant Set features a Beautifully Printed Kurta with intricate Embroidery and a Complementing Dupatta.",
+          "image": "Ladies/Dupattas/white.jpg"
+      },
+      {
+          "id": 41,
+          "title": "Embroidered Georgette Readymade Lehenga Choli",
+          "price": "2596Rs",
+          "gender": "Ladies",
+          "category": "Lehengas",
+          "description": "Wardrobe with this stunning georgette lehenga, featuring exquisite sequin and embroidery work that captures attention with its vibrant elegance.",
+          "image": "Ladies/Lehengas/blue.jpg"
+      },
+      {
+          "id": 42,
+          "title": "Stunning beige silk lahenga choli for wedding",
+          "price": "1998Rs",
+          "gender": "Ladies",
+          "category": "Lehengas",
+          "description": "Complete your look with the matching Georgette dupatta, enhancing the appeal of this ensemble. The classy color combination and attention to detail make it a statement piece.",
+          "image": "Ladies/Lehengas/gold.jpg"
+      },
+      {
+          "id": 43,
+          "title": "Net Letest Design Chain Embroderied Work Woman S Flered Semi-Stitched Lehenga Choli",
+          "price": "1859Rs",
+          "gender": "Ladies",
+          "category": "Lehengas",
+          "description": "Embroidered wiith Stone work; Blouse Work:s Embroidered wiith Stone wor; Dupatta Work: Embroidered wiith Stone work",
+          "image": "Ladies/Lehengas/khaki.jpg"
+      },
+      {
+          "id": 44,
+          "title": "Maroon Net Embroidered Semi Stitched Lehenga Choli",
+          "price": "2989Rs",
+          "gender": "Ladies",
+          "category": "Lehengas",
+          "description": "Un-stitched Lehenga & Dupatta With An Un-stitched Blouse Piece.",
+          "image": "Ladies/Lehengas/maroon.jpg"
+      },
+      {
+          "id": 45,
+          "title": "Lehenga Choli Patola Print with Foil Work With Blouse Solid",
+          "price": "3198Rs",
+          "gender": "Ladies",
+          "category": "Lehengas",
+          "description": " We have Stylish Kanjivaram Pattu silk Traditional Lehenga Choli Halfsarees latest New design Collection For Women.",
+          "image": "Ladies/Lehengas/navyblue.jpg"
+      },
+      {
+          "id": 46,
+          "title": "Women's Tussar Silk With Patola Print And Foil Work Lehenga choli",
+          "price": "1798Rs",
+          "gender": "Ladies",
+          "category": "Lehengas",
+          "description": "Silk lehengas Half Sarees are the epitome of elegance and luxury, suitable for various occasions, from weddings to festive celebrations.",
+          "image": "Ladies/Lehengas/rose.jpg"
+      },
+      {
+          "id": 47,
+          "title": "White Georgette Zari Embroidered Work Semi-Stitched Lehenga Choli For Women",
+          "price": "2496Rs",
+          "gender": "Ladies",
+          "category": "Lehengas",
+          "description": "Lehenga & Dupatta Have All Over Pure Golden Zari Jacquard Weaving , Blouse Have Comes With Plain Matching Brocade",
+          "image": "Ladies/Lehengas/silver.jpg"
+      },
+      {
+          "id": 48,
+          "title": "Necwa White Red Unstitch Women's Kanjivaram Pattu Pure Soft Silk Indian",
+          "price": "2998Rs",
+          "gender": "Ladies",
+          "category": "Lehengas",
+          "description": "This Kanjivaram Zari silk Lehenga choli is made up of soft silk which is known as Kanchipuram silk. It is created by twisting together filaments to create a sturdier and more durable fabric.",
+          "image": "Ladies/Lehengas/whitered.jpg"
+      },
+      {
+          "id": 49,
+          "title": "Women's Georgette Embroidery Anarkali Salwar Kameez",
+          "price": "1892Rs",
+          "gender": "Ladies",
+          "category": "Salwar Kameez",
+          "description": "Versatile and stylish, this stitched salwar suit dress is a must-have addition to your ethnic collection. Whether it's a party or a festive celebration, it promises comfort for long hours.",
+          "image": "Ladies/Salwar Kameez/beige.jpg"
+      },
+      {
+          "id": 50,
+          "title": "Women's Onion Pink Georgette Embroidery Anarkali Salwar Kameez",
+          "price": "2749Rs",
+          "gender": "Ladies",
+          "category": "Salwar Kameez",
+          "description": "Crafted with precision, this ensemble features intricate embroidery on soft Georgette fabric. The yellow color adds a pop of brightness, ensuring you stand out with grace.",
+          "image": "Ladies/Salwar Kameez/darkred.jpg"
+      },
+      {
+          "id": 51,
+          "title": "Wishful Women's Polyester Kurta, Flared Pant & Dupatta",
+          "price": "3248Rs",
+          "gender": "Ladies",
+          "category": "Salwar Kameez",
+          "description": "Complete your look with the matching Georgette dupatta, enhancing the appeal of this ensemble. The classy color combination and attention to detail make it a statement piece.",
+          "image": "Ladies/Salwar Kameez/green.jpg"
+      },
+      {
+          "id": 52,
+          "title": "Green Chinon Stitched Top With Chinon Dupatta Full Sleeve Embroidered Anarkali Gown",
+          "price": "2298Rs",
+          "gender": "Ladies",
+          "category": "Salwar Kameez",
+          "description": "Experience the perfect blend of tradition and contemporary style with our yellow Georgette Anarkali salwar kameez. Ideal for haldi ceremonies, weddings, or any special event, this dress radiates elegance.",
+          "image": "Ladies/Salwar Kameez/green2.jpg"
+      },
+      {
+          "id": 53,
+          "title": "Red Color Women Cotton Salwar Suit Set",
+          "price": "3479Rs",
+          "gender": "Ladies",
+          "category": "Salwar Kameez",
+          "description": "",
+          "image": "Ladies/Salwar Kameez/red.jpg"
+      },
+      {
+          "id": 54,
+          "title": "Sky Blue Color Women's Cotton Salwar Suit Set",
+          "price": "2249Rs",
+          "gender": "Ladies",
+          "category": "Salwar Kameez",
+          "description": "Today, the mix-and-match range has a very contemporary offering ladies' churidars and dupatta sets in cotton, in shades of every colorsensibility.",
+          "image": "Ladies/Salwar Kameez/yellow.jpg"
+      },
+      {
+          "id": 55,
+          "title": "Flared Pant & Dupatta Yellow Color Polyester Blend Womens",
+          "price": "2859Rs",
+          "gender": "Ladies",
+          "category": "Salwar Kameez",
+          "description": "This Art silk dupatta is Self designed, & our Floral print dupatta for women comes with Multicolored.",
+          "image": "Ladies/Salwar Kameez/skyblue.jpg"
+      },
+      {
+          "id": 56,
+          "title": "Yellow Color Polyester Blend Womens Salwar Suite Set",
+          "price": "3998",
+          "gender": "Ladies",
+          "category": "Salwar Kameez",
+          "description": "MATERIAL USED- its a Pure silk dupatta. It can be pair up with any solid kurta & this ethnic dupatta for women enhances your attire.",
+          "image": "Ladies/Salwar Kameez/yellowgreen.jpg"
+      },
+      {
+          "id": 57,
+          "title": "Women's Jacquard Silk Blend Saree Blue Color",
+          "price": "489Rs",
+          "gender": "Ladies",
+          "category": "Sarees",
+          "description": "Colour Of The Actual Product May Slightly Vary Due To Different Photographic Lighting Sources Or Your Display Color Settings Or Screen Type.",
+          "image": "Ladies/Sarees/blue.jpg"
+      },
+      {
+          "id": 58,
+          "title": "Bright Pink Women's Silk Saree ",
+          "price": "495Rs",
+          "gender": "Ladies",
+          "category": "Sarees",
+          "description": "This Saree Is Suitable To Get A Contemporary Stylish Look In Normal Occasions, College Farewell, Family Get Together, Regular Or Daily Use, Office Or Work Or Gifting To Loved One.",
+          "image": "Ladies/Sarees/darkpink.jpg"
+      },
+      {
+          "id": 59,
+          "title": "Beautifully Designed Sarees in Green Color",
+          "price": "699Rs",
+          "gender": "Ladies",
+          "category": "Sarees",
+          "description": "This Saree Is Suitable To Get A Contemporary Stylish Look In Normal Occasions, College Farewell, Family Get Together, Regular Or Daily Use, Office Or Work Or Gifting To Loved One.",
+          "image": "Ladies/Sarees/green.jpg"
+      },
+      {
+          "id": 60,
+          "title": "Navy Blue Color Banarasi Sarees are Celebrated for their Intricate Weaving",
+          "price": "958Rs",
+          "gender": "Ladies",
+          "category": "Sarees",
+          "description": "Explore The Collection Of Beautifully Designed Sarees From Samah. Each Piece Is Elegantly Crafted Banarasi Jacquard And Navy Blue Colors Saree Will Surely Add To Your Wardrobe. Pair This Piece With Heels Or Flats For A Graceful Look",
+          "image": "Ladies/Sarees/navyblue.jpg"
+      },
+      {
+          "id": 61,
+          "title": "Pink Color Women's Banarasi Silk Jacquard Saree with Unstitched Blouse Piece",
+          "price": "1184Rs",
+          "gender": "Ladies",
+          "category": "Sarees",
+          "description": "Colour Of The Actual Product May Slightly Vary Due To Different Photographic Lighting Sources Or Your Display Color Settings Or Screen Type",
+          "image": "Ladies/Sarees/pink.jpg"
+      },
+      {
+          "id": 62,
+          "title": "Purpul Color Silk Blend Banarasi Jacquard Saree ",
+          "price": "",
+          "gender": "Ladies",
+          "category": "Sarees",
+          "description": "This Saree Is Suitable To Get A Contemporary Stylish Look In Normal Occasions, College Farewell, Family Get Together, Regular Or Daily Use, Office Or Work Or Gifting To Loved One.",
+          "image": "Ladies/Sarees/purple.jpg"
+      },
+      {
+          "id": 63,
+          "title": "Women's Red Color Silk Blend Banarasi Jacquard Saree with Unstitched Blouse",
+          "price": "1294Rs",
+          "gender": "Ladies",
+          "category": "Sarees",
+          "description": "This Saree Is Suitable To Get A Contemporary Stylish Look In Normal Occasions, College Farewell, Family Get Together, Regular Or Daily Use, Office Or Work Or Gifting To Loved One.",
+          "image": "Ladies/Sarees/red.jpg"
+      },
+      {
+          "id": 64,
+          "title": "Violet & Magenta Color Festival, Party, Evening, Casual, Ceremony",
+          "price": "894Rs",
+          "gender": "Ladies",
+          "category": "Sarees",
+          "description": "This Saree Is Suitable To Get A Contemporary Stylish Look In Normal Occasions, College Farewell, Family Get Together",
+          "image": "Ladies/Sarees/violet.jpg"
+      }],
+  "kids": [
+      {
+          "id": 65,
+          "title": " Kids Cotton Silk Printed 3pc Kurta Pyjama Set",
+          "price": "1179Rs",
+          "gender": "Kids",
+          "category": "boys",
+          "description": "A finely crafted 3 pc ethnic ensemble is a perfect combination of modern subtlety and traditional charm. Wear this kurta set for a classic ethnic dress-up and pair it up with the embroidered jacket ",
+          "image": "Kids/boys/beige.jpg"
+      },
+      {
+          "id": 66,
+          "title": "Blue Color Silk Blend Boy' Lavender And Kurta Pyjama Set",
+          "price": "986Rs",
+          "gender": "Kids",
+          "category": "boys",
+          "description": "Maroon woven knee length straight Banarasi jacquard kurta, has a mandarin collar, rose gold piping detailing, long sleeves, straight hem and side slits. Comes with rose gold solid pyjama, has elasticated waistband.",
+          "image": "Kids/boys/blue.jpg"
+      },
+      {
+          "id": 67,
+          "title": "Gold Color Kids Silk Ethnic Kurta Patiala Set for Boys",
+          "price": "897Rs",
+          "gender": "Kids",
+          "category": "boys",
+          "description": "The perfect set for your young boy for special occasions, party, wedding, ceremony and birthday gift, all function wear",
+          "image": "Kids/boys/gold.jpg"
+      },
+      {
+          "id": 68,
+          "title": "Kids Cotton Silk Printed 3pc Kurta Pyjama Set For Boys",
+          "price": "999Rs",
+          "gender": "Kids",
+          "category": "boys",
+          "description": "Solid raw silk regular fit, long sleeve Kurta. Featuring mandarin collor, front bottons, side slit and straight hem.",
+          "image": "Kids/boys/gray.jpg"
+      },
+      {
+          "id": 69,
+          "title": "Boys' Green and Rose Gold Kurta Patiala Set",
+          "price": "959Rs",
+          "gender": "Kids",
+          "category": "boys",
+          "description": " Includes a matching kurta and Patiala, offering a coordinated traditional look perfect for Navratri, Diwali, and other festive occasions.",
+          "image": "Kids/boys/green.jpg"
+      },
+      {
+          "id": 70,
+          "title": "Maroon Boys Kurta Pajama and Jacket Set",
+          "price": "1498Rs",
+          "gender": "Kids",
+          "category": "boys",
+          "description": "Perfect for ethnic wear for boys and baby boys, this outfit is ideal for parties, weddings, and festive celebrations.",
+          "image": "Kids/boys/maroon.jpg"
+      },
+      {
+          "id": 71,
+          "title": "Ethnic Wear Cotton Printed Kurta Pajama Set For Boys",
+          "price": "1098Rs",
+          "gender": "Kids",
+          "category": "boys",
+          "description": "The perfect set for your young boy for special occasions, party, wedding, ceremony and birthday gift, all function wear.",
+          "image": "Kids/boys/pink.jpg"
+      },
+      {
+          "id": 72,
+          "title": "Silk Blend Boy' Lavender And Kurta Pyjama Set",
+          "price": "978Rs",
+          "gender": "Kids",
+          "category": "boys",
+          "description": "Maroon woven knee length straight Banarasi jacquard kurta, has a mandarin collar, rose gold piping detailing, long sleeves, straight hem and side slits. Comes with rose gold solid pyjama, has elasticated waistband.",
+          "image": "Kids/boys/red.jpg"
+      },
+
+
+
+
+
+      {
+          "id": 73,
+          "title": "Dress Half Sleeves Readymade Hand Sequins Embroidery Ethnic",
+          "price": "1020Rs",
+          "gender": "Kids",
+          "category": "girls",
+          "description": "Ramagreen colour fantom blended silk fabric with matching royalblue and golden borders. Finished with golden lace",
+          "image": "Kids/girls/blue.jpg"
+      },
+      {
+          "id": 74,
+          "title": "Kids Girls Lehnga Choli Ruffle Pattern Dress Half Sleeves",
+          "price": "1008Rs",
+          "gender": "Kids",
+          "category": "girls",
+          "description": "Royalblue colour fantom blended silk fabric in pleated cut design. Neck portion is highlighted with matching golden thread and sequins embroidery",
+          "image": "Kids/girls/gold.jpg"
+      },
+      {
+          "id": 75,
+          "title": "Green Color Girls Lehenga Choli",
+          "price": "1985Rs",
+          "gender": "Kids",
+          "category": "girls",
+          "description": " Our exquisite collection spans ethnic and western wear for kids, each piece curated with care to blend heritage charm with modern comfort.",
+          "image": "Kids/girls/green.jpg"
+      },
+      {
+          "id": 76,
+          "title": "Girls Off White Floral Yoke Design Empire Pure Cotton Kurti with Skirt",
+          "price": "798Rs",
+          "gender": "Kids",
+          "category": "girls",
+          "description": "Outfits from Pspeaches is the perfect way to ensure your little ones are dressed with the latest styles without compromising on comfort. ",
+          "image": "Kids/girls/multicolor.jpg"
+      },
+      {
+          "id": 77,
+          "title": "Pink Color Girls Kurta & Sharara",
+          "price": "1493Rs",
+          "gender": "Kids",
+          "category": "girls",
+          "description": "Exquisite kids clothing brand, you can bring home the latest in kid’s fashion, made from skin friendly fabrics. ",
+          "image": "Kids/girls/pink.jpg"
+      },
+      {
+          "id": 78,
+          "title": "Pink and Red Color Girl's Polyester Lehenga Choli",
+          "price": "897Rs",
+          "gender": "Kids",
+          "category": "girls",
+          "description": "Whether you are looking for casual wear, party wear or ethnic wear, the vast range of PSPeaches collection has something that appeals to everyone. The range is specially curated for girls and boys between the age group of 2 to 16 years.",
+          "image": "Kids/girls/red.jpg"
+      },
+      {
+          "id": 79,
+          "title": "Sky Blue Color Girl's Cotton Blend Set Lehenga Choli",
+          "price": "1883Rs",
+          "gender": "Kids",
+          "category": "girls",
+          "description": "Fabric Crop Top With Buti Embroidery And Lehenga With Dupatta Set Girl's Cotton Blend Set Lehenga Chol",
+          "image": "Kids/girls/skyblue.jpg"
+      },
+      {
+          "id": 80,
+          "title": "Kids Lehenga Choli for Girls Cotton Silk Traditional Dress ",
+          "price": "862Rs",
+          "gender": "Kids",
+          "category": "girls",
+          "description": "Best Suitable For All Occasion Like Mahamaham Festival, Ugadi, Mysuru Dasara, Hampi Utsav, Pongal, Karaga, Onam, Wedding, Ceremonial, Party, Birthday, Festival Etc,Best Gift Suitable For Birthday Girl",
+          "image": "Kids/girls/white.jpg"
+      }],
+  "accessories": [
+      {
+          "id": 81,
+          "title": "Men's Ethnic Embroidery Jutis and Mojaris for Fashion Shoes with Comfort",
+          "price": "1198Rs",
+          "category": "Accessories",
+          "subcategory": "Footwear",
+          "description": "These Jutis/Mojaris is best suited for Ethnic, Festive, Party, Traditional and Casual wear. A classy range of Jutis/Mojaris that compliments your modern style statement. ",
+          "image": "Access/footwear/men1.jpg"
+      },
+      {
+          "id": 82,
+          "title": "UNIQUE CRAFT Men's Ethnic Genuine Leather for Men",
+          "price": "653Rs",
+          "category": "Accessories",
+          "subcategory": "Footwear",
+          "description": "A perfect style and comfort , Light Weight & Cushioned Foot bed Comfort to the Feet. Hand Crafted by some of Well-trained artisans.",
+          "image": "Access/footwear/men2.jpg"
+      },
+      {
+          "id": 83,
+          "title": "Kolhapuri Chappal for Men Stylish Original Leather",
+          "price": "751Rs",
+          "category": "Accessories",
+          "subcategory": "Footwear",
+          "description": "Bringing you the kolapuri chapal men stylish by countless steps. This kolhapuri chappal for men stylish latest design comes in many colors. This product kolhapuri chappal for men is handcrafted",
+          "image": "Access/footwear/men3.jpg"
+      },
+      {
+          "id": 84,
+          "title": "Men's Ethnic Embroidery Juttis for Wedding",
+          "price": "1248Rs",
+          "category": "Accessories",
+          "subcategory": "Footwear",
+          "description": " It implies that the outer sole of the shoe (the half that touches the ground) is formed of thermoplastic rubber, an artificial material that acts like rubber however contains no natural latex.",
+          "image": "Access/footwear/men4.jpg"
+      },
+      {
+          "id": 85,
+          "title": "Women Rajasthani Ethnic Embroidery with Payal Punjabi",
+          "price": "899Rs",
+          "category": "Accessories",
+          "subcategory": "Footwear",
+          "description": "Stylish traditional design, embroidery, lightweight, non-slip, pull on design for easy off/on punjabi jutti",
+          "image": "Access/footwear/women1.jpg"
+      },
+      {
+          "id": 86,
+          "title": "Women's One Toe Ethnic Slip-On Flat Chappals",
+          "price": "632Rs",
+          "category": "Accessories",
+          "subcategory": "Footwear",
+          "description": " No matter if it is for your wife, mom, sister, girlfriend or for yourself; these flats will catch the eyesight of others and never go out of Fashion",
+          "image": "Access/footwear/women2.jpg"
+      },
+      {
+          "id": 87,
+          "title": " Rangeela Green Kolhapuri Chappal for women ",
+          "price": "1194Rs",
+          "category": "Accessories",
+          "subcategory": "Footwear",
+          "description": " This ladies Jutti has double cushioning for extra comfort , Stylish and elegant for your traditional footwear look Don't be concerned if it's a little tight . Natural leather expands by after few wear to conform to the shape of your foot.",
+          "image": "Access/footwear/women3.jpg"
+      },
+      {
+          "id": 88,
+          "title": "Women Traditional Slip-On Flats with Peacock",
+          "price": "",
+          "category": "Accessories",
+          "subcategory": "Footwear",
+          "description": "",
+          "image": "Access/footwear/women4.jpg"
+      },
+      {
+          "id": 89,
+          "title": "Men's Jewellery Designer Wedding Multi Strand Maroon and White Color",
+          "price": "1017Rs",
+          "category": "Accessories",
+          "subcategory": "Jewellery",
+          "description": "Avoid Heat & Chemicals Like Perfume, Deo, Alchol, Etc.Clean With Dry Cotton Cloth.It Is Advisable To Store Jewellery In A Zip Lock Pouch (Air Tight Pouch)",
+          "image": "Access/jewellery/men1.jpg"
+      },
+      {
+          "id": 90,
+          "title": "Pearl Necklace Jewellery for Groom Dulha Moti Mala Haar for Men",
+          "price": "983Rs",
+          "category": "Accessories",
+          "subcategory": "Jewellery",
+          "description": "We began our journey with a vision to offer quality and trendy fashion jewelry. Our collection, featuring the Dulha Moti Mala and Kundan Mala, embodies the essence of traditional and appealing ethnic jewelry.",
+          "image": "Access/jewellery/men2.jpg"
+      },
+      {
+          "id": 91,
+          "title": "Men's Crystal Square Stone Cubic Zirconia Ring ",
+          "price": "649Rs",
+          "category": "Accessories",
+          "subcategory": "Jewellery",
+          "description": "A perfect gifts for that special someone in your life. Best gift for your wife,daughter,sister or best friend, and know that without a doubt you have purchased the perfect present for any occasion, whether it is for mother?s, valentines-day,",
+          "image": "Access/jewellery/men3.jpg"
+      },
+      {
+          "id": 92,
+          "title": "Gold Plated Stainless Steel Dual Link Chain Bracelet for Men |",
+          "price": "981Rs",
+          "category": "Accessories",
+          "subcategory": "Jewellery",
+          "description": "Your favorite piece of Jewellery will reach you in an Elegant Yellow Chimes box with safety and precautions. You can leave it to us the job of delivering your Jewellery in original condition to you at your door-step.",
+          "image": "Access/jewellery/men4.jpg"
+      },
+      {
+          "id": 93,
+          "title": "Latest Matte Finish Combo Design Stylish Necklace Set",
+          "price": "1584Rs",
+          "category": "Accessories",
+          "subcategory": "Jewellery",
+          "description": "Shining Diva is a well known brand across fashion jewellery sector. Shining Diva products are preferred by many Designers, Stars and Celebrities. Shining Diva fashion jewelry believes in making beauty and fashion a part of everybody's life",
+          "image": "Access/jewellery/women1.jpg"
+      },
+      {
+          "id": 94,
+          "title": "Gold Plated Traditional Necklace Set",
+          "price": "879Rs",
+          "category": "Accessories",
+          "subcategory": "Jewellery",
+          "description": "Shining Diva products are preferred by many Designers, Stars and Celebrities. Shining Diva fashion jewelry believes in making beauty and fashion a part of everybody's life.",
+          "image": "Access/jewellery/women2.jpg"
+      },
+      {
+          "id": 95,
+          "title": "Gold Plated Kundan Choker Necklace Earrings with Maang",
+          "price": "1990Rs",
+          "category": "Accessories",
+          "subcategory": "Jewellery",
+          "description": "Love for jewels never fades away! Jewellery is one of the most spectacular & popular gifts. Perfect gifts for your best friend, girlfriend, wife, mother or for someone you want to show love and can be gifted on occasions like Wedding",
+          "image": "Access/jewellery/women3.jpg"
+      },
+      {
+          "id": 96,
+          "title": "International Kundan AD Style Alloy Necklace with Earrings & Maang Tikka for Women",
+          "price": "2009Rs",
+          "category": "Accessories",
+          "subcategory": "Jewellery",
+          "description": "This gold-plated jewellery set is made from diamond and with genuine plating, we used world-class craftsmanship. This is a party wear necklace with gold plated and alloy material, exclusive design that suits best on all types of occasions.",
+          "image": "Access/jewellery/women4.jpg"
+      },
+      {
+          "id": 97,
+          "title": "Self Jamawar Plain Stole",
+          "price": "349Rs",
+          "category": "Accessories",
+          "subcategory": "Stoles",
+          "description": "Our Viscose (Rayon) Stoles are made from the best quality rayon fibre giving it superior softness and shine to last for a long time.",
+          "image": "Access/Stoles/men1.jpg"
+      },
+      {
+          "id": 98,
+          "title": "Warm Lohi Shawl for Men and Boys ",
+          "price": "639Rs",
+          "category": "Accessories",
+          "subcategory": "Stoles",
+          "description": "Perfect companion for a man to feel warm and comfortable in winters. These thick and warm wool shawls & stoles have a wonderful, soft feel and comes in natural colors. Made out of blended wool yarn.",
+          "image": "Access/Stoles/men2.jpg"
+      },
+      {
+          "id": 99,
+          "title": "Cotton Viscose Abstract Printed Soft & Stylish",
+          "price": "893Rs",
+          "category": "Accessories",
+          "subcategory": "Stoles",
+          "description": "This Colorful printed scarf can be worn on western wear and casuals and can be worn in all seasons. Ideal for summers as they are soft to feel and colorful to look",
+          "image": "Access/Stoles/women1.jpg"
+      },
+      {
+          "id": 100,
+          "title": " Women's Wool Self Reversible Stole Check Design",
+          "price": "598Rs",
+          "category": "Accessories",
+          "subcategory": "Stoles",
+          "description": "Traditional heritage of Indian Arts. Each piece is meticulously designed to alchemise tradition in a way that it finds a well deserved place in any modern wardrobe.",
+          "image": "Access/Stoles/women2.jpg"
+      }
+  ]
+}
