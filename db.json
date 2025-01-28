@@ -2,7 +2,7 @@
     "men": [
         {
             "id": 1,
-            "title": "Mens  Viscose  Blend Kurta  Pyjama Set With Dupatta",
+            "title": "Mens Viscose Blend Kurta Pyjama Set With Dupatta",
             "price": "3459Rs",
             "gender": "Male",
             "category": "Angarkhas-Bandhgalas",
@@ -65,7 +65,7 @@
         },
         {
             "id": 8,
-            "title": "K I S A H Mens Jodhpuri Bandhgala",
+            "title": " Mens Jodhpuri Bandhgala",
             "price": "3859Rs",
             "gender": "Male",
             "category": "Angarkhas-Bandhgalas",
@@ -137,7 +137,7 @@
         },
         {
             "id": 16,
-            "title": "K I S A H Mens Jodhpuri Bandhgala",
+            "title": "Mens Jodhpuri Bandhgala",
             "price": "1859Rs",
             "gender": "Male",
             "category": "Dhotis",
@@ -177,12 +177,12 @@
             "price": "899Rs",
             "gender": "Male",
             "category": "Kurta-Pajama",
-            "description": "EffortlessElegance:Thekurta\u2019sminimalisticyetstylishdesignallowsittotransitionsmoothlybetweendayandeveningwear,makingitperfectforawiderangeofevents",
+            "description": "EffortlessElegance:Thekurtau2019sminimalisticyetstylishdesignallowsittotransitionsmoothlybetweendayandeveningwear,makingitperfectforawiderangeofevents",
             "image": "https://m.media-amazon.com/images/I/71NFGu6K5hL._SY550_.jpg"
         },
         {
             "id": 21,
-            "title": "R A M R A J Mens Maroon Color Pocket Kurta",
+            "title": "Mens Maroon Color Pocket Kurta",
             "price": "1065Rs",
             "gender": "Male",
             "category": "Kurta-Pajama",
@@ -373,7 +373,7 @@
         },
         {
             "id": 42,
-            "title": "Stunningbeigesilklahengacholiforwedding",
+            "title": "Stunning Beige Silk Lahenga Choli for Wedding",
             "price": "1998Rs",
             "gender": "Women",
             "category": "Lehengas",
@@ -663,7 +663,7 @@
         },
         {
             "id": 74,
-            "title": "Kids  Girls  Lehnga  Choli  Ruffle  Pattern  Dress  Half  Sleeves",
+            "title": "Kids Girls Lehnga Choli Ruffle Pattern Dress Half Sleeves",
             "price": "1008Rs",
             "gender": "Kids",
             "category": "girls",
@@ -672,7 +672,7 @@
         },
         {
             "id": 75,
-            "title": "Green  Color  Girls  Lehenga  Choli",
+            "title": "Green Color Girls Lehenga Choli",
             "price": "1985Rs",
             "gender": "Kids",
             "category": "girls",
@@ -681,7 +681,7 @@
         },
         {
             "id": 76,
-            "title": "Girls  Off  White  Floral  Yoke  Design  Empire  Pure  Cotton  Kurti with  Skirt",
+            "title": "Girls Off White Floral Yoke Design Empire Pure Cotton Kurti with Skirt",
             "price": "798Rs",
             "gender": "Kids",
             "category": "girls",
@@ -690,16 +690,16 @@
         },
         {
             "id": 77,
-            "title": "Pink  Color  Girls  Kurta &  Sharara",
+            "title": "Pink Color Girls Kurta & Sharara",
             "price": "1493Rs",
             "gender": "Kids",
             "category": "girls",
-            "description": "Exquisite kids clothing brand, you can bring home the latest in kid\u2019s fashion, made from skin friendly fabrics. ",
+            "description": "Exquisite kids clothing brand, you can bring home the latest in kidu 2019s fashion, made from skin friendly fabrics. ",
             "image": "https://m.media-amazon.com/images/I/512d4gAaCRL._SX425_.jpg"
         },
         {
             "id": 78,
-            "title": "Pink and  Red  Color  Girl's  Polyester  Lehenga  Choli",
+            "title": "Pink and Red Color Girl's Polyester Lehenga Choli",
             "price": "897Rs",
             "gender": "Kids",
             "category": "girls",
@@ -708,7 +708,7 @@
         },
         {
             "id": 79,
-            "title": "Sky  Blue  Color  Girl's  Cotton  Blend  Set  Lehenga  Choli",
+            "title": "Sky Blue Color Girl's Cotton Blend Set Lehenga Choli",
             "price": "1883Rs",
             "gender": "Kids",
             "category": "girls",
@@ -717,7 +717,7 @@
         },
         {
             "id": 80,
-            "title": "Kids  Lehenga  Choli for  Girls  Cotton  Silk  Traditional  Dress ",
+            "title": "Kids Lehenga Choli for Girls Cotton Silk Traditional Dress ",
             "price": "862Rs",
             "gender": "Kids",
             "category": "girls",
@@ -728,7 +728,7 @@
     "Accessories": [
         {
             "id": 81,
-            "title": "Men's  Ethnic  Embroidery  Jutis and  Mojaris for  Fashion  Shoes with  Comfort",
+            "title": "Men's Ethnic Embroidery Jutis and Mojaris for Fashion Shoes with Comfort",
             "price": "1198Rs",
             "category": "Accessories",
             "subcategory": "Footwear",
@@ -737,7 +737,7 @@
         },
         {
             "id": 82,
-            "title": "U N I Q U E  C R A F T  Men's  Ethnic  Genuine  Leather for  Men",
+            "title": "Men's Ethnic Genuine Leather for Men",
             "price": "653Rs",
             "category": "Accessories",
             "subcategory": "Footwear",
@@ -746,7 +746,7 @@
         },
         {
             "id": 83,
-            "title": "Kolhapuri  Chappal for  Men  Stylish  Original  Leather",
+            "title": "Kolhapuri Chappal for Men Stylish Original Leather",
             "price": "751Rs",
             "category": "Accessories",
             "subcategory": "Footwear",
@@ -755,7 +755,7 @@
         },
         {
             "id": 84,
-            "title": "Men's  Ethnic  Embroidery  Juttis for  Wedding",
+            "title": "Men's Ethnic Embroidery Juttis for Wedding",
             "price": "1248Rs",
             "category": "Accessories",
             "subcategory": "Footwear",
@@ -764,7 +764,7 @@
         },
         {
             "id": 85,
-            "title": "Women  Rajasthani  Ethnic  Embroidery with  Payal  Punjabi",
+            "title": "Women Rajasthani Ethnic Embroidery with Payal Punjabi",
             "price": "899Rs",
             "category": "Accessories",
             "subcategory": "Footwear",
@@ -773,7 +773,7 @@
         },
         {
             "id": 86,
-            "title": "Women's  One  Toe  Ethnic  Slip- On  Flat  Chappals",
+            "title": "Women's One Toe Ethnic Slip- On Flat Chappals",
             "price": "632Rs",
             "category": "Accessories",
             "subcategory": "Footwear",
@@ -782,7 +782,7 @@
         },
         {
             "id": 87,
-            "title": "  Rangeela  Green  Kolhapuri  Chappal for women ",
+            "title": " Rangeela Green Kolhapuri Chappal for women ",
             "price": "1194Rs",
             "category": "Accessories",
             "subcategory": "Footwear",
@@ -791,7 +791,7 @@
         },
         {
             "id": 88,
-            "title": "Women  Traditional  Slip- On  Flats with  Peacock",
+            "title": "Women Traditional Slip- On Flats with Peacock",
             "price": "899",
             "category": "Accessories",
             "subcategory": "Footwear",
@@ -800,7 +800,7 @@
         },
         {
             "id": 89,
-            "title": "Men's  Jewellery  Designer  Wedding  Multi  Strand  Maroon and  White  Color",
+            "title": "Men's Jewellery Designer Wedding Multi Strand Maroon and White Color",
             "price": "1017Rs",
             "category": "Accessories",
             "subcategory": "Jewellery",
@@ -809,7 +809,7 @@
         },
         {
             "id": 90,
-            "title": "Pearl  Necklace  Jewellery for  Groom  Dulha  Moti  Mala  Haar for  Men",
+            "title": "Pearl Necklace Jewellery for Groom Dulha Moti Mala Haar for Men",
             "price": "983Rs",
             "category": "Accessories",
             "subcategory": "Jewellery",
@@ -818,7 +818,7 @@
         },
         {
             "id": 91,
-            "title": "Men's  Crystal  Square  Stone  Cubic  Zirconia  Ring ",
+            "title": "Men's Crystal Square Stone Cubic Zirconia Ring ",
             "price": "649Rs",
             "category": "Accessories",
             "subcategory": "Jewellery",
@@ -827,7 +827,7 @@
         },
         {
             "id": 92,
-            "title": "Gold  Plated  Stainless  Steel  Dual  Link  Chain  Bracelet for  Men",
+            "title": "Gold Plated Stainless Steel Dual Link Chain Bracelet for Men",
             "price": "981Rs",
             "category": "Accessories",
             "subcategory": "Jewellery",
@@ -836,7 +836,7 @@
         },
         {
             "id": 93,
-            "title": "Latest  Matte  Finish  Combo  Design  Stylish  Necklace  Set",
+            "title": "Latest Matte Finish Combo Design Stylish Necklace Set",
             "price": "1584Rs",
             "category": "Accessories",
             "subcategory": "Jewellery",
@@ -845,7 +845,7 @@
         },
         {
             "id": 94,
-            "title": "Gold  Plated  Traditional  Necklace  Set",
+            "title": "Gold Plated Traditional Necklace Set",
             "price": "879Rs",
             "category": "Accessories",
             "subcategory": "Jewellery",
@@ -854,7 +854,7 @@
         },
         {
             "id": 95,
-            "title": "Gold  Plated  Kundan  Choker  Necklace  Earrings with  Maang",
+            "title": "Gold Plated Kundan Choker Necklace Earrings with Maang",
             "price": "1990Rs",
             "category": "Accessories",
             "subcategory": "Jewellery",
@@ -863,7 +863,7 @@
         },
         {
             "id": 96,
-            "title": "International  Kundan  A D  Style  Alloy  Necklace with  Earrings &  Maang  Tikka for  Women",
+            "title": "International Kundan A D Style Alloy Necklace with Earrings & Maang Tikka for Women",
             "price": "2009Rs",
             "category": "Accessories",
             "subcategory": "Jewellery",
@@ -872,7 +872,7 @@
         },
         {
             "id": 97,
-            "title": "Self  Jamawar  Plain  Stole",
+            "title": "Self Jamawar Plain Stole",
             "price": "349Rs",
             "category": "Accessories",
             "subcategory": "Stoles",
@@ -881,7 +881,7 @@
         },
         {
             "id": 98,
-            "title": "Warm  Lohi  Shawl for  Men and  Boys ",
+            "title": "Warm Lohi Shawl for Men and Boys ",
             "price": "639Rs",
             "category": "Accessories",
             "subcategory": "Stoles",
@@ -890,7 +890,7 @@
         },
         {
             "id": 99,
-            "title": "Cotton  Viscose  Abstract  Printed  Soft &  Stylish",
+            "title": "Cotton Viscose Abstract Printed Soft & Stylish",
             "price": "893Rs",
             "category": "Accessories",
             "subcategory": "Stoles",
@@ -899,7 +899,7 @@
         },
         {
             "id": 100,
-            "title": "  Women's  Wool  Self  Reversible  Stole  Check  Design",
+            "title": " Women's Wool Self Reversible Stole Check Design",
             "price": "598Rs",
             "category": "Accessories",
             "subcategory": "Stoles",
