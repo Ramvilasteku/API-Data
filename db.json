@@ -3,7 +3,7 @@
         {
             "id": 1,
             "title": "Mens Viscose Kurta Set",
-            "price": "3459Rs",
+            "price": "3459",
             "gender": "Male",
             "category": "Angarkhas-Bandhgalas",
             "description": "MensViscoseBlendKurtaPyjamaSetWithDupatta|AngrakhaDesignAsymmetricalPleatedViscoseKurta.ComeswithsolidPyjamaAndMirrorDupatta.",
@@ -12,7 +12,7 @@
         {
             "id": 2,
             "title": "Beige Silk Sherwani",
-            "price": "2999Rs",
+            "price": "2999",
             "gender": "Male",
             "category": "Angarkhas-Bandhgalas",
             "description": "MensViscoseBlendKurtaPyjamaSetWithDupatta|AngrakhaDesignAsymmetricalPleatedViscoseKurta.ComeswithsolidPyjamaAndMirrorDupatta.",
@@ -21,7 +21,7 @@
         {
             "id": 3,
             "title": "Nehru Jacket",
-            "price": "3955Rs",
+            "price": "3955",
             "gender": "Male",
             "category": "Angarkhas-Bandhgalas",
             "description": "MensViscoseBlendKurtaPyjamaSetWithDupatta|AngrakhaDesignAsymmetricalPleatedViscoseKurta.ComeswithsolidPyjamaAndMirrorDupatta.",
@@ -30,7 +30,7 @@
         {
             "id": 4,
             "title": "Cream Viscose Kurta",
-            "price": "2459Rs",
+            "price": "2459",
             "gender": "Male",
             "category": "Angarkhas-Bandhgalas",
             "description": "MensViscoseBlendKurtaPyjamaSetWithDupatta|AngrakhaDesignAsymmetricalPleatedViscoseKurta.ComeswithsolidPyjamaAndMirrorDupatta.",
@@ -39,7 +39,7 @@
         {
             "id": 5,
             "title": "Cotton Jacket Kurta",
-            "price": "2955Rs",
+            "price": "2955",
             "gender": "Male",
             "category": "Angarkhas-Bandhgalas",
             "description": "MensViscoseBlendKurtaPyjamaSetWithDupatta|AngrakhaDesignAsymmetricalPleatedViscoseKurta.ComeswithsolidPyjamaAndMirrorDupatta.",
@@ -48,7 +48,7 @@
         {
             "id": 6,
             "title": "Mens Viscose Kurta Set",
-            "price": "3359Rs",
+            "price": "3359",
             "gender": "Male",
             "category": "Angarkhas-Bandhgalas",
             "description": "MensViscoseBlendKurtaPyjamaSetWithDupatta|AngrakhaDesignAsymmetricalPleatedViscoseKurta.ComeswithsolidPyjamaAndMirrorDupatta.",
@@ -57,7 +57,7 @@
         {
             "id": 7,
             "title": "Banarasi Jodhpuri",
-            "price": "2279Rs",
+            "price": "2279",
             "gender": "Male",
             "category": "Angarkhas-Bandhgalas",
             "description": "MensViscoseBlendKurtaPyjamaSetWithDupatta|AngrakhaDesignAsymmetricalPleatedViscoseKurta.ComeswithsolidPyjamaAndMirrorDupatta.",
@@ -66,7 +66,7 @@
         {
             "id": 8,
             "title": " Mens Jodhpuri Bandhgala",
-            "price": "3859Rs",
+            "price": "3859",
             "gender": "Male",
             "category": "Angarkhas-Bandhgalas",
             "description": "MensViscoseBlendKurtaPyjamaSetWithDupatta|AngrakhaDesignAsymmetricalPleatedViscoseKurta.ComeswithsolidPyjamaAndMirrorDupatta.",
@@ -75,7 +75,7 @@
         {
             "id": 9,
             "title": "Mens Viscose Kurta Set",
-            "price": "1459Rs",
+            "price": "1459",
             "gender": "Male",
             "category": "Dhotis",
             "description": "MensViscoseBlendKurtaPyjamaSetWithDupatta|AngrakhaDesignAsymmetricalPleatedViscoseKurta.ComeswithsolidPyjamaAndMirrorDupatta.",
@@ -84,7 +84,7 @@
         {
             "id": 10,
             "title": "Beige Silk Sherwani",
-            "price": "1999Rs",
+            "price": "1999",
             "gender": "Male",
             "category": "Dhotis",
             "description": "MensViscoseBlendKurtaPyjamaSetWithDupatta|AngrakhaDesignAsymmetricalPleatedViscoseKurta.ComeswithsolidPyjamaAndMirrorDupatta.",
@@ -93,7 +93,7 @@
         {
             "id": 11,
             "title": "Nehru Jacket",
-            "price": "1955Rs",
+            "price": "1955",
             "gender": "Male",
             "category": "Dhotis",
             "description": "MensViscoseBlendKurtaPyjamaSetWithDupatta|AngrakhaDesignAsymmetricalPleatedViscoseKurta.ComeswithsolidPyjamaAndMirrorDupatta.",
@@ -102,7 +102,7 @@
         {
             "id": 12,
             "title": "Cream Viscose Kurta",
-            "price": "1459Rs",
+            "price": "1459",
             "gender": "Male",
             "category": "Dhotis",
             "description": "MensViscoseBlendKurtaPyjamaSetWithDupatta|AngrakhaDesignAsymmetricalPleatedViscoseKurta.ComeswithsolidPyjamaAndMirrorDupatta.",
@@ -111,7 +111,7 @@
         {
             "id": 13,
             "title": "Cotton Jacket Kurta",
-            "price": "1955Rs",
+            "price": "1955",
             "gender": "Male",
             "category": "Dhotis",
             "description": "MensViscoseBlendKurtaPyjamaSetWithDupatta|AngrakhaDesignAsymmetricalPleatedViscoseKurta.ComeswithsolidPyjamaAndMirrorDupatta.",
@@ -120,7 +120,7 @@
         {
             "id": 14,
             "title": "Mens Viscose Kurta Set",
-            "price": "1359Rs",
+            "price": "1359",
             "gender": "Male",
             "category": "Dhotis",
             "description": "MensViscoseBlendKurtaPyjamaSetWithDupatta|AngrakhaDesignAsymmetricalPleatedViscoseKurta.ComeswithsolidPyjamaAndMirrorDupatta.",
@@ -129,7 +129,7 @@
         {
             "id": 15,
             "title": "Banarasi Jodhpuri",
-            "price": "1279Rs",
+            "price": "1279",
             "gender": "Male",
             "category": "Dhotis",
             "description": "MensViscoseBlendKurtaPyjamaSetWithDupatta|AngrakhaDesignAsymmetricalPleatedViscoseKurta.ComeswithsolidPyjamaAndMirrorDupatta.",
@@ -138,7 +138,7 @@
         {
             "id": 16,
             "title": "Jodhpuri Bandhgala",
-            "price": "1859Rs",
+            "price": "1859",
             "gender": "Male",
             "category": "Dhotis",
             "description": "MensViscoseBlendKurtaPyjamaSetWithDupatta|AngrakhaDesignAsymmetricalPleatedViscoseKurta.ComeswithsolidPyjamaAndMirrorDupatta.",
@@ -147,7 +147,7 @@
         {
             "id": 17,
             "title": "Blue Pocket Kurta",
-            "price": "1095Rs",
+            "price": "1095",
             "gender": "Male",
             "category": "Kurta-Pajama",
             "description": "LuxuriousFabric:TheCottonfabric'squality,oftensoftandbreathable,notonlyaddscomfortbutalsogivesthekurtaapremiumandpolishedappearance",
@@ -156,7 +156,7 @@
         {
             "id": 18,
             "title": "Green Cotton Kurta",
-            "price": "995Rs",
+            "price": "995",
             "gender": "Male",
             "category": "Kurta-Pajama",
             "description": "ClassicSilhouette:TheBluemediumlengthofthekurtaoffersarefinedbalancebetweentraditionandmodernity,makingitadaptabletobothformalandcasualsettings",
@@ -165,7 +165,7 @@
         {
             "id": 19,
             "title": "Cotton Regular Kurta",
-            "price": "1195Rs",
+            "price": "1195",
             "gender": "Male",
             "category": "Kurta-Pajama",
             "description": "VersatilePairing:Youcaneasilymixandmatchitwithtraditionalpyjamasforacompleteethniclookorwithslim-fittrousersorjeansforacontemporarytwist",
@@ -174,7 +174,7 @@
         {
             "id": 20,
             "title": "Yellow Pocket Kurta",
-            "price": "899Rs",
+            "price": "899",
             "gender": "Male",
             "category": "Kurta-Pajama",
             "description": "EffortlessElegance:Thekurtau2019sminimalisticyetstylishdesignallowsittotransitionsmoothlybetweendayandeveningwear,makingitperfectforawiderangeofevents",
@@ -183,7 +183,7 @@
         {
             "id": 21,
             "title": "Maroon Pocket Kurta",
-            "price": "1065Rs",
+            "price": "1065",
             "gender": "Male",
             "category": "Kurta-Pajama",
             "description": "Two-SidePockets:Theadditionoftwosidepocketsenhancespracticalitywithoutcompromisingtheaesthetic.Itaddsamoderntwisttothetraditionalkurta,allowingforeasystorageofessentialslikeaphoneorwallet.",
@@ -192,7 +192,7 @@
         {
             "id": 22,
             "title": "Orange Cotton Kurta",
-            "price": "1209Rs",
+            "price": "1209",
             "gender": "Male",
             "category": "Kurta-Pajama",
             "description": "VersatilePairing:Youcaneasilymixandmatchitwithtraditionalpyjamasforacompleteethniclookorwithslim-fittrousersorjeansforacontemporarytwist",
@@ -201,7 +201,7 @@
         {
             "id": 23,
             "title": "Printed Kurta",
-            "price": "989Rs",
+            "price": "989",
             "gender": "Male",
             "category": "Kurta-Pajama",
             "description": "LuxuriousFabric:TheCottonfabric'squality,oftensoftandbreathable,notonlyaddscomfortbutalsogivesthekurtaapremiumandpolishedappearance.",
@@ -210,7 +210,7 @@
         {
             "id": 24,
             "title": "Sky Blue Kurta",
-            "price": "1095Rs",
+            "price": "1095",
             "gender": "Male",
             "category": "Kurta-Pajama",
             "description": "Two-SidePockets:Theadditionoftwosidepocketsenhancespracticalitywithoutcompromisingtheaesthetic.Itaddsamoderntwisttothetraditionalkurta,allowingforeasystorageofessentialslikeaphoneorwallet.",
@@ -219,7 +219,7 @@
         {
             "id": 25,
             "title": "Blue Indo Sherwani",
-            "price": "2459Rs",
+            "price": "2459",
             "gender": "Male",
             "category": "Sherwanis",
             "description": "CRAFTMANSHIP:OurSherwanisetsaremeticulouslycraftedwithhighqualitymaterialsandintricatedetailing,aluxuriousethnicattireensuringsuperiorcomfortanddurability.",
@@ -228,7 +228,7 @@
         {
             "id": 26,
             "title": "Orange Indo Sherwani",
-            "price": "5698Rs",
+            "price": "5698",
             "gender": "Male",
             "category": "Sherwanis",
             "description": "ELEGANTSHERWANISET:DiscoverawiderangeofelegantlydesignedSherwanisthatembodytraditionalcharmandmodernstyle,thesesherwanisetsareperfectforgroomsandgroomsmen,featuringexquisiteembroideryandopulentdesigns",
@@ -237,7 +237,7 @@
         {
             "id": 27,
             "title": "Silk Indo Sherwani",
-            "price": "5969Rs",
+            "price": "5969",
             "gender": "Male",
             "category": "Sherwanis",
             "description": "OCCASIONANDGIFTING:TheKurtaChuridarSetwithhigh-qualityfabriccanbewornbothcasuallyandformally.Itissuitableforoccasionssuchasweddings,ceremonies,parties,regularwear,festivals,Lohri,MakarSankranti,Baisakhi,Holi,Father'sDay,Eid,RakshaBandhan,Dussehra,Diwali,Navratri,Pooja,Christmas,Onam,Ganesha,businessmeetings,anddailyuse.Additionally,itcanbegivenasagifttofamilyandfriends.",
@@ -246,7 +246,7 @@
         {
             "id": 28,
             "title": "Maroon Indo Sherwani",
-            "price": "3989Rs",
+            "price": "3989",
             "gender": "Male",
             "category": "Sherwanis",
             "description": "MODERN&CONTEMPORARYDESIGN:Whilesherwanisetshavetraditionalroots,moderndesignshaveadaptedthestyletocatertocontemporarytastes.Mencanfindsherwanisetswithmodernsilhouettes,innovativecuts,andcontemporarycolorcombinations,blendingtraditionalaestheticswithafreshandfashionabletwist.",
@@ -255,7 +255,7 @@
         {
             "id": 29,
             "title": "Navy Indo Sherwani",
-            "price": "2988Rs",
+            "price": "2988",
             "gender": "Male",
             "category": "Sherwanis",
             "description": "DiscoverawiderangeofelegantlydesignedSherwanisthatembodytraditionalcharmandmodernstyle,thesesherwanisetsareperfectforgroomsandgroomsmen",
@@ -264,7 +264,7 @@
         {
             "id": 30,
             "title": "Silk Blend Sherwani",
-            "price": "6298Rs",
+            "price": "6298",
             "gender": "Male",
             "category": "Sherwanis",
             "description": "SherwaniSetwithhigh-qualityfabriccanbewornbothcasuallyandformally.Itissuitableforoccasionssuchasweddings,ceremonies,parties,festivals,Lohri,MakarSankranti,Baisakhi,Holi,Eid,RakshaBandhan,Dussehra,Diwali,Navratri,Pooja,",
@@ -273,7 +273,7 @@
         {
             "id": 31,
             "title": "Beige Silk Sherwani",
-            "price": "4998Rs",
+            "price": "4998",
             "gender": "Male",
             "category": "Sherwanis",
             "description": "Fabric:SilkBlend|Contents:aImportedJacquardFabricDesignerIndowesternForMen",
@@ -282,7 +282,7 @@
         {
             "id": 32,
             "title": "Wine Sherwani Set",
-            "price": "3798Rs",
+            "price": "3798",
             "gender": "Male",
             "category": "Sherwanis",
             "description": "VersatileDesign:TheFloralPatternandClassicSilhouettemakethisKurtaSetsuitableforVariousOccasions,fromCasualOutingstoFestiveEvents.",
@@ -293,7 +293,7 @@
         {
             "id": 33,
             "title": "Rayon Floral Printed Embroidered",
-            "price": "2199Rs",
+            "price": "2199",
             "gender": "Women",
             "category": "Dupattas",
             "description": "StylishKurtaSet:ThisElegantSetfeaturesaBeautifullyPrintedKurtawithintricateEmbroideryandaComplementingDupatta.",
@@ -302,7 +302,7 @@
         {
             "id": 34,
             "title": "Viscose Silk Pantand Chinon",
-            "price": "1598Rs",
+            "price": "1598",
             "gender": "Women",
             "category": "Dupattas",
             "description": "AddatouchofelegancetoyourwardrobewiththisWomen'sLavenderViscoseSilkset.Theintricatelyembroideredstraightkurtapairsbeautifullywithmatchingviscosesilkpants.",
@@ -311,7 +311,7 @@
         {
             "id": 35,
             "title": "Women's Embroidered Printed Chanderi",
-            "price": "999Rs",
+            "price": "999",
             "gender": "Women",
             "category": "Dupattas",
             "description": "Perfectforbothcasualoutingsandspecialoccasions,thisensemblecombinesstyleandcomforteffortlessly.",
@@ -320,7 +320,7 @@
         {
             "id": 36,
             "title": "Embroidered Printed Chanderi Kurti",
-            "price": "1289Rs",
+            "price": "1289",
             "gender": "Women",
             "category": "Dupattas",
             "description": "VersatileDesign:TheFloralPatternandClassicSilhouettemakethisKurtaSetsuitableforVariousOccasions,fromCasualOutingstoFestiveEvents.",
@@ -329,7 +329,7 @@
         {
             "id": 37,
             "title": "Zari Linen Floral Dupatta",
-            "price": "1869Rs",
+            "price": "1869",
             "gender": "Women",
             "category": "Dupattas",
             "description": "Perfectforbothcasualoutingsandspecialoccasions,thisensemblecombinesstyleandcomforteffortlessly.",
@@ -338,7 +338,7 @@
         {
             "id": 38,
             "title": "Embroidered Straight Kurtawith Rayon",
-            "price": "890Rs",
+            "price": "890",
             "gender": "Women",
             "category": "Dupattas",
             "description": "EasyCare:ThisKurtaSetisDesignedforHassle-FreeMaintenance,makingitapracticalchoiceforeverydaywear.",
@@ -347,7 +347,7 @@
         {
             "id": 39,
             "title": "Kurtawith Rayon Pantand Silk",
-            "price": "1189Rs",
+            "price": "1189",
             "gender": "Women",
             "category": "Dupattas",
             "description": "Perfectforbothcasualoutingsandspecialoccasions,thisensemblecombinesstyleandcomforteffortlessly.",
@@ -356,7 +356,7 @@
         {
             "id": 40,
             "title": "Women's Printed Dupatta| Zari",
-            "price": "1386Rs",
+            "price": "1386",
             "gender": "Women",
             "category": "Dupattas",
             "description": "StylishKurtaSet:ThisElegantSetfeaturesaBeautifullyPrintedKurtawithintricateEmbroideryandaComplementingDupatta.",
@@ -365,7 +365,7 @@
         {
             "id": 41,
             "title": "Embroidered Georgette Readymade Lehenga",
-            "price": "2596Rs",
+            "price": "2596",
             "gender": "Women",
             "category": "Lehengas",
             "description": "Wardrobewiththisstunninggeorgettelehenga,featuringexquisitesequinandembroideryworkthatcapturesattentionwithitsvibrantelegance.",
@@ -374,7 +374,7 @@
         {
             "id": 42,
             "title": "Stunning Beige Silk Lahenga",
-            "price": "1998Rs",
+            "price": "1998",
             "gender": "Women",
             "category": "Lehengas",
             "description": "CompleteyourlookwiththematchingGeorgettedupatta,enhancingtheappealofthisensemble.Theclassycolorcombinationandattentiontodetailmakeitastatementpiece.",
@@ -383,7 +383,7 @@
         {
             "id": 43,
             "title": "Net Letest Design Chain",
-            "price": "1859Rs",
+            "price": "1859",
             "gender": "Women",
             "category": "Lehengas",
             "description": "EmbroideredwiithStonework;BlouseWork:sEmbroideredwiithStonewor;DupattaWork:EmbroideredwiithStonework",
@@ -392,7 +392,7 @@
         {
             "id": 44,
             "title": "Embroidered Semi Stitched Lehenga",
-            "price": "2989Rs",
+            "price": "2989",
             "gender": "Women",
             "category": "Lehengas",
             "description": "Un-stitchedLehenga&DupattaWithAnUn-stitchedBlousePiece.",
@@ -401,7 +401,7 @@
         {
             "id": 45,
             "title": "Lehenga Choli Patola Printwith",
-            "price": "3198Rs",
+            "price": "3198",
             "gender": "Women",
             "category": "Lehengas",
             "description": "WehaveStylishKanjivaramPattusilkTraditionalLehengaCholiHalfsareeslatestNewdesignCollectionForWomen.",
@@ -410,7 +410,7 @@
         {
             "id": 46,
             "title": "Women's Tussar Silk With",
-            "price": "1798Rs",
+            "price": "1798",
             "gender": "Women",
             "category": "Lehengas",
             "description": "SilklehengasHalfSareesaretheepitomeofeleganceandluxury,suitableforvariousoccasions,fromweddingstofestivecelebrations.",
@@ -419,7 +419,7 @@
         {
             "id": 47,
             "title": "White Georgette Zari Embroidered",
-            "price": "2496Rs",
+            "price": "2496",
             "gender": "Women",
             "category": "Lehengas",
             "description": "Lehenga&DupattaHaveAllOverPureGoldenZariJacquardWeaving,BlouseHaveComesWithPlainMatchingBrocade",
@@ -428,7 +428,7 @@
         {
             "id": 48,
             "title": "Necwa White Red Unstitch",
-            "price": "2998Rs",
+            "price": "2998",
             "gender": "Women",
             "category": "Lehengas",
             "description": "ThisKanjivaramZarisilkLehengacholiismadeupofsoftsilkwhichisknownasKanchipuramsilk.Itiscreatedbytwistingtogetherfilamentstocreateasturdierandmoredurablefabric.",
@@ -437,7 +437,7 @@
         {
             "id": 49,
             "title": "Women's Georgette Embroidery Anarkali",
-            "price": "1892Rs",
+            "price": "1892",
             "gender": "Women",
             "category": "SalwarKameez",
             "description": "Versatileandstylish,thisstitchedsalwarsuitdressisamust-haveadditiontoyourethniccollection.Whetherit'sapartyorafestivecelebration,itpromisescomfortforlonghours.",
@@ -446,7 +446,7 @@
         {
             "id": 50,
             "title": "Women's Onion Pink Georgette",
-            "price": "2749Rs",
+            "price": "2749",
             "gender": "Women",
             "category": "SalwarKameez",
             "description": "Craftedwithprecision,thisensemblefeaturesintricateembroideryonsoftGeorgettefabric.Theyellowcoloraddsapopofbrightness,ensuringyoustandoutwithgrace.",
@@ -455,7 +455,7 @@
         {
             "id": 51,
             "title": "Wishful Women's Polyester Kurta,",
-            "price": "3248Rs",
+            "price": "3248",
             "gender": "Women",
             "category": "SalwarKameez",
             "description": "CompleteyourlookwiththematchingGeorgettedupatta,enhancingtheappealofthisensemble.Theclassycolorcombinationandattentiontodetailmakeitastatementpiece.",
@@ -464,7 +464,7 @@
         {
             "id": 52,
             "title": "Green Chinon Stitched Top",
-            "price": "2298Rs",
+            "price": "2298",
             "gender": "Women",
             "category": "SalwarKameez",
             "description": "ExperiencetheperfectblendoftraditionandcontemporarystylewithouryellowGeorgetteAnarkalisalwarkameez.Idealforhaldiceremonies,weddings,oranyspecialevent,thisdressradiateselegance.",
@@ -473,7 +473,7 @@
         {
             "id": 53,
             "title": "Red Color Women Cotton",
-            "price": "3479Rs",
+            "price": "3479",
             "gender": "Women",
             "category": "SalwarKameez",
             "description": "ThisSareeIsSuitableToGetAContemporaryStylishLookInNormalOccasions,CollegeFarewell,FamilyGetTogether,RegularOrDailyUse,OfficeOrWorkOrGiftingToLovedOne.",
@@ -482,7 +482,7 @@
         {
             "id": 54,
             "title": "Sky Blue Color Women's",
-            "price": "2249Rs",
+            "price": "2249",
             "gender": "Women",
             "category": "SalwarKameez",
             "description": "Today,themix-and-matchrangehasaverycontemporaryofferingladies'churidarsanddupattasetsincotton,inshadesofeverycolorsensibility.",
@@ -491,7 +491,7 @@
         {
             "id": 55,
             "title": "Flared Pant& Dupatta Yellow",
-            "price": "2859Rs",
+            "price": "2859",
             "gender": "Women",
             "category": "SalwarKameez",
             "description": "ThisArtsilkdupattaisSelfdesigned,&ourFloralprintdupattaforwomencomeswithMulticolored.",
@@ -509,7 +509,7 @@
         {
             "id": 57,
             "title": "Women's Jacquard Silk Blend",
-            "price": "489Rs",
+            "price": "489",
             "gender": "Women",
             "category": "Sarees",
             "description": "ColourOfTheActualProductMaySlightlyVaryDueToDifferentPhotographicLightingSourcesOrYourDisplayColorSettingsOrScreenType.",
@@ -518,7 +518,7 @@
         {
             "id": 58,
             "title": "Bright Pink Women's Silk",
-            "price": "495Rs",
+            "price": "495",
             "gender": "Women",
             "category": "Sarees",
             "description": "ThisSareeIsSuitableToGetAContemporaryStylishLookInNormalOccasions,CollegeFarewell,FamilyGetTogether,RegularOrDailyUse,OfficeOrWorkOrGiftingToLovedOne.",
@@ -527,7 +527,7 @@
         {
             "id": 59,
             "title": "Beautifully Designed Sareesin Green",
-            "price": "699Rs",
+            "price": "699",
             "gender": "Women",
             "category": "Sarees",
             "description": "ThisSareeIsSuitableToGetAContemporaryStylishLookInNormalOccasions,CollegeFarewell,FamilyGetTogether,RegularOrDailyUse,OfficeOrWorkOrGiftingToLovedOne.",
@@ -536,7 +536,7 @@
         {
             "id": 60,
             "title": "Navy Blue Color Banarasi",
-            "price": "958Rs",
+            "price": "958",
             "gender": "Women",
             "category": "Sarees",
             "description": "ExploreTheCollectionOfBeautifullyDesignedSareesFromSamah.EachPieceIsElegantlyCraftedBanarasiJacquardAndNavyBlueColorsSareeWillSurelyAddToYourWardrobe.PairThisPieceWithHeelsOrFlatsForAGracefulLook",
@@ -545,7 +545,7 @@
         {
             "id": 61,
             "title": "Pink Color Women's Banarasi",
-            "price": "1184Rs",
+            "price": "1184",
             "gender": "Women",
             "category": "Sarees",
             "description": "ColourOfTheActualProductMaySlightlyVaryDueToDifferentPhotographicLightingSourcesOrYourDisplayColorSettingsOrScreenType",
@@ -554,7 +554,7 @@
         {
             "id": 62,
             "title": "Purpul Color Silk Blend",
-            "price": "989Rs",
+            "price": "989",
             "gender": "Women",
             "category": "Sarees",
             "description": "ThisSareeIsSuitableToGetAContemporaryStylishLookInNormalOccasions,CollegeFarewell,FamilyGetTogether,RegularOrDailyUse,OfficeOrWorkOrGiftingToLovedOne.",
@@ -563,7 +563,7 @@
         {
             "id": 63,
             "title": "Women's Red Color Silk",
-            "price": "1294Rs",
+            "price": "1294",
             "gender": "Women",
             "category": "Sarees",
             "description": "ThisSareeIsSuitableToGetAContemporaryStylishLookInNormalOccasions,CollegeFarewell,FamilyGetTogether,RegularOrDailyUse,OfficeOrWorkOrGiftingToLovedOne.",
@@ -572,7 +572,7 @@
         {
             "id": 64,
             "title": "Violet& Magenta Color Festival,",
-            "price": "894Rs",
+            "price": "894",
             "gender": "Women",
             "category": "Sarees",
             "description": "ThisSareeIsSuitableToGetAContemporaryStylishLookInNormalOccasions,CollegeFarewell,FamilyGetTogether",
@@ -583,7 +583,7 @@
         {
             "id": 65,
             "title": "Kids Cotton Silk Printed3pc",
-            "price": "1179Rs",
+            "price": "1179",
             "gender": "Kids",
             "category": "boys",
             "description": "Afinelycrafted3pcethnicensembleisaperfectcombinationofmodernsubtletyandtraditionalcharm.Wearthiskurtasetforaclassicethnicdress-upandpairitupwiththeembroideredjacket",
@@ -592,7 +592,7 @@
         {
             "id": 66,
             "title": "Blue Color Silk Blend",
-            "price": "986Rs",
+            "price": "986",
             "gender": "Kids",
             "category": "boys",
             "description": "MaroonwovenkneelengthstraightBanarasijacquardkurta,hasamandarincollar,rosegoldpipingdetailing,longsleeves,straighthemandsideslits.Comeswithrosegoldsolidpyjama,haselasticatedwaistband.",
@@ -601,7 +601,7 @@
         {
             "id": 67,
             "title": "Gold Color Kids Silk",
-            "price": "897Rs",
+            "price": "897",
             "gender": "Kids",
             "category": "boys",
             "description": "Theperfectsetforyouryoungboyforspecialoccasions,party,wedding,ceremonyandbirthdaygift,allfunctionwear",
@@ -610,7 +610,7 @@
         {
             "id": 68,
             "title": "Kids Cotton Silk Printed3pc",
-            "price": "999Rs",
+            "price": "999",
             "gender": "Kids",
             "category": "boys",
             "description": "Solidrawsilkregularfit,longsleeveKurta.Featuringmandarincollor,frontbottons,sideslitandstraighthem.",
@@ -619,7 +619,7 @@
         {
             "id": 69,
             "title": "Boys' Greenand Rose Gold",
-            "price": "959Rs",
+            "price": "959",
             "gender": "Kids",
             "category": "boys",
             "description": "IncludesamatchingkurtaandPatiala,offeringacoordinatedtraditionallookperfectforNavratri,Diwali,andotherfestiveoccasions.",
@@ -628,7 +628,7 @@
         {
             "id": 70,
             "title": "Maroon Boys Kurta Pajamaand",
-            "price": "1498Rs",
+            "price": "1498",
             "gender": "Kids",
             "category": "boys",
             "description": "Perfectforethnicwearforboysandbabyboys,thisoutfitisidealforparties,weddings,andfestivecelebrations.",
@@ -637,7 +637,7 @@
         {
             "id": 71,
             "title": "Ethnic Wear Cotton Printed",
-            "price": "1098Rs",
+            "price": "1098",
             "gender": "Kids",
             "category": "boys",
             "description": "Theperfectsetforyouryoungboyforspecialoccasions,party,wedding,ceremonyandbirthdaygift,allfunctionwear.",
@@ -646,7 +646,7 @@
         {
             "id": 72,
             "title": "Silk Blend Boy' Lavender",
-            "price": "978Rs",
+            "price": "978",
             "gender": "Kids",
             "category": "boys",
             "description": "MaroonwovenkneelengthstraightBanarasijacquardkurta,hasamandarincollar,rosegoldpipingdetailing,longsleeves,straighthemandsideslits.Comeswithrosegoldsolidpyjama,haselasticatedwaistband.",
@@ -655,7 +655,7 @@
         {
             "id": 73,
             "title": "Dress Half Sleeves Readymade",
-            "price": "1020Rs",
+            "price": "1020",
             "gender": "Kids",
             "category": "girls",
             "description": "Ramagreen colour fantom blended silk fabric with matching royalblue and golden borders. Finished with golden lace",
@@ -664,7 +664,7 @@
         {
             "id": 74,
             "title": "Kids Girls Lehnga Choli",
-            "price": "1008Rs",
+            "price": "1008",
             "gender": "Kids",
             "category": "girls",
             "description": "Royalblue colour fantom blended silk fabric in pleated cut design. Neck portion is highlighted with matching golden thread and sequins embroidery",
@@ -673,7 +673,7 @@
         {
             "id": 75,
             "title": "Green Color Girls Lehenga",
-            "price": "1985Rs",
+            "price": "1985",
             "gender": "Kids",
             "category": "girls",
             "description": " Our exquisite collection spans ethnic and western wear for kids, each piece curated with care to blend heritage charm with modern comfort.",
@@ -682,7 +682,7 @@
         {
             "id": 76,
             "title": "Girls Off White Floral",
-            "price": "798Rs",
+            "price": "798",
             "gender": "Kids",
             "category": "girls",
             "description": "Outfits from Pspeaches is the perfect way to ensure your little ones are dressed with the latest styles without compromising on comfort. ",
@@ -691,7 +691,7 @@
         {
             "id": 77,
             "title": "Pink Color Girls Kurta",
-            "price": "1493Rs",
+            "price": "1493",
             "gender": "Kids",
             "category": "girls",
             "description": "Exquisite kids clothing brand, you can bring home the latest in kidu 2019s fashion, made from skin friendly fabrics. ",
@@ -700,7 +700,7 @@
         {
             "id": 78,
             "title": "Pink and Red Color",
-            "price": "897Rs",
+            "price": "897",
             "gender": "Kids",
             "category": "girls",
             "description": "Whether you are looking for casual wear, party wear or ethnic wear, the vast range of PSPeaches collection has something that appeals to everyone. The range is specially curated for girls and boys between the age group of 2 to 16 years.",
@@ -709,7 +709,7 @@
         {
             "id": 79,
             "title": "Sky Blue Color Girl's",
-            "price": "1883Rs",
+            "price": "1883",
             "gender": "Kids",
             "category": "girls",
             "description": "Fabric Crop Top With Buti Embroidery And Lehenga With Dupatta Set Girl's Cotton Blend Set Lehenga Chol",
@@ -718,7 +718,7 @@
         {
             "id": 80,
             "title": "Kids Lehenga Choli for",
-            "price": "862Rs",
+            "price": "862",
             "gender": "Kids",
             "category": "girls",
             "description": "Best Suitable For All Occasion Like Mahamaham Festival, Ugadi, Mysuru Dasara, Hampi Utsav, Pongal, Karaga, Onam, Wedding, Ceremonial, Party, Birthday, Festival Etc,Best Gift Suitable For Birthday Girl",
@@ -729,7 +729,7 @@
         {
             "id": 81,
             "title": "Men's Ethnic Embroidery Jutis",
-            "price": "1198Rs",
+            "price": "1198",
             "category": "Accessories",
             "subcategory": "Footwear",
             "description": "These Jutis/Mojaris is best suited for Ethnic, Festive, Party, Traditional and Casual wear. A classy range of Jutis/Mojaris that compliments your modern style statement. ",
@@ -738,7 +738,7 @@
         {
             "id": 82,
             "title": "Men's Ethnic Genuine Leather",
-            "price": "653Rs",
+            "price": "653",
             "category": "Accessories",
             "subcategory": "Footwear",
             "description": "A perfect style and comfort , Light Weight & Cushioned Foot bed Comfort to the Feet. Hand Crafted by some of Well-trained artisans.",
@@ -747,7 +747,7 @@
         {
             "id": 83,
             "title": "Kolhapuri Chappal for Men",
-            "price": "751Rs",
+            "price": "751",
             "category": "Accessories",
             "subcategory": "Footwear",
             "description": "Bringing you the kolapuri chapal men stylish by countless steps. This kolhapuri chappal for men stylish latest design comes in many colors. This product kolhapuri chappal for men is handcrafted",
@@ -756,7 +756,7 @@
         {
             "id": 84,
             "title": "Men's Ethnic Embroidery Juttis",
-            "price": "1248Rs",
+            "price": "1248",
             "category": "Accessories",
             "subcategory": "Footwear",
             "description": " It implies that the outer sole of the shoe (the half that touches the ground) is formed of thermoplastic rubber, an artificial material that acts like rubber however contains no natural latex.",
@@ -764,8 +764,8 @@
         },
         {
             "id": 85,
-            "title": "Women Rajasthani Ethnic Embroidery",
-            "price": "899Rs",
+            "title": "Women Rajasthani Embroidery",
+            "price": "899",
             "category": "Accessories",
             "subcategory": "Footwear",
             "description": "Stylish traditional design, embroidery, lightweight, non-slip, pull on design for easy off/on punjabi jutti",
@@ -774,7 +774,7 @@
         {
             "id": 86,
             "title": "Women's One Toe Ethnic",
-            "price": "632Rs",
+            "price": "632",
             "category": "Accessories",
             "subcategory": "Footwear",
             "description": " No matter if it is for your wife, mom, sister, girlfriend or for yourself; these flats will catch the eyesight of others and never go out of Fashion",
@@ -783,7 +783,7 @@
         {
             "id": 87,
             "title": "Rangeela Green Kolhapuri Chappal",
-            "price": "1194Rs",
+            "price": "1194",
             "category": "Accessories",
             "subcategory": "Footwear",
             "description": "This ladies Jutti has double cushioning for extra comfort , Stylish and elegant for your traditional footwear look Don't be concerned if it's a little tight . Natural leather expands by after few wear to conform to the shape of your foot.",
@@ -801,7 +801,7 @@
         {
             "id": 89,
             "title": "Men's Jewellery Designer Wedding",
-            "price": "1017Rs",
+            "price": "1017",
             "category": "Accessories",
             "subcategory": "Jewellery",
             "description": "Avoid Heat & Chemicals Like Perfume, Deo, Alchol, Etc.Clean With Dry Cotton Cloth.It Is Advisable To Store Jewellery In A Zip Lock Pouch (Air Tight Pouch)",
@@ -810,7 +810,7 @@
         {
             "id": 90,
             "title": "Pearl Necklace Jewellery for",
-            "price": "983Rs",
+            "price": "983",
             "category": "Accessories",
             "subcategory": "Jewellery",
             "description": "We began our journey with a vision to offer quality and trendy fashion jewelry. Our collection, featuring the Dulha Moti Mala and Kundan Mala, embodies the essence of traditional and appealing ethnic jewelry.",
@@ -819,7 +819,7 @@
         {
             "id": 91,
             "title": "Men's Crystal Square Stone",
-            "price": "649Rs",
+            "price": "649",
             "category": "Accessories",
             "subcategory": "Jewellery",
             "description": "A perfect gifts for that special someone in your life. Best gift for your wife,daughter,sister or best friend, and know that without a doubt you have purchased the perfect present for any occasion, whether it is for mother?s, valentines-day,",
@@ -828,7 +828,7 @@
         {
             "id": 92,
             "title": "Gold Plated Stainless Steel",
-            "price": "981Rs",
+            "price": "981",
             "category": "Accessories",
             "subcategory": "Jewellery",
             "description": "Your favorite piece of Jewellery will reach you in an Elegant Yellow Chimes box with safety and precautions. You can leave it to us the job of delivering your Jewellery in original condition to you at your door-step.",
@@ -837,7 +837,7 @@
         {
             "id": 93,
             "title": "Latest Matte Finish Combo",
-            "price": "1584Rs",
+            "price": "1584",
             "category": "Accessories",
             "subcategory": "Jewellery",
             "description": "Shining Diva is a well known brand across fashion jewellery sector. Shining Diva products are preferred by many Designers, Stars and Celebrities. Shining Diva fashion jewelry believes in making beauty and fashion a part of everybody's life",
@@ -846,7 +846,7 @@
         {
             "id": 94,
             "title": "Gold Plated Traditional Necklace",
-            "price": "879Rs",
+            "price": "879",
             "category": "Accessories",
             "subcategory": "Jewellery",
             "description": "Shining Diva products are preferred by many Designers, Stars and Celebrities. Shining Diva fashion jewelry believes in making beauty and fashion a part of everybody's life.",
@@ -855,7 +855,7 @@
         {
             "id": 95,
             "title": "Gold Plated Kundan Choker",
-            "price": "1990Rs",
+            "price": "1990",
             "category": "Accessories",
             "subcategory": "Jewellery",
             "description": "Love for jewels never fades away! Jewellery is one of the most spectacular & popular gifts. Perfect gifts for your best friend, girlfriend, wife, mother or for someone you want to show love and can be gifted on occasions like Wedding",
@@ -864,7 +864,7 @@
         {
             "id": 96,
             "title": "International Kundan A D",
-            "price": "2009Rs",
+            "price": "2009",
             "category": "Accessories",
             "subcategory": "Jewellery",
             "description": "This gold-plated jewellery set is made from diamond and with genuine plating, we used world-class craftsmanship. This is a party wear necklace with gold plated and alloy material, exclusive design that suits best on all types of occasions.",
@@ -873,7 +873,7 @@
         {
             "id": 97,
             "title": "Self Jamawar Plain Stole",
-            "price": "349Rs",
+            "price": "349",
             "category": "Accessories",
             "subcategory": "Stoles",
             "description": "Our Viscose (Rayon) Stoles are made from the best quality rayon fibre giving it superior softness and shine to last for a long time.",
@@ -882,7 +882,7 @@
         {
             "id": 98,
             "title": "Warm Lohi Shawl for",
-            "price": "639Rs",
+            "price": "639",
             "category": "Accessories",
             "subcategory": "Stoles",
             "description": "Perfect companion for a man to feel warm and comfortable in winters. These thick and warm wool shawls & stoles have a wonderful, soft feel and comes in natural colors. Made out of blended wool yarn.",
@@ -891,7 +891,7 @@
         {
             "id": 99,
             "title": "Cotton Viscose Abstract Printed",
-            "price": "893Rs",
+            "price": "893",
             "category": "Accessories",
             "subcategory": "Stoles",
             "description": "This Colorful printed scarf can be worn on western wear and casuals and can be worn in all seasons. Ideal for summers as they are soft to feel and colorful to look",
@@ -900,7 +900,7 @@
         {
             "id": 100,
             "title": "Women's Wool Self Reversible",
-            "price": "598Rs",
+            "price": "598",
             "category": "Accessories",
             "subcategory": "Stoles",
             "description": "Traditional heritage of Indian Arts. Each piece is meticulously designed to alchemise tradition in a way that it finds a well deserved place in any modern wardrobe.",
