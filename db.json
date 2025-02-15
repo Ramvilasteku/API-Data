@@ -2,7 +2,7 @@
     "Mens": [
         {
             "id": 1,
-            "title": "Mens Viscose Blend Kurta Pyjama Set With Dupatta",
+            "title": "Mens Viscose Kurta Set",
             "price": "3459Rs",
             "gender": "Male",
             "category": "Angarkhas-Bandhgalas",
@@ -11,7 +11,7 @@
         },
         {
             "id": 2,
-            "title": "Mens Beige Silk Blend Sherwani Set",
+            "title": "Beige Silk Sherwani",
             "price": "2999Rs",
             "gender": "Male",
             "category": "Angarkhas-Bandhgalas",
@@ -20,7 +20,7 @@
         },
         {
             "id": 3,
-            "title": "Mens Neheru Jacket",
+            "title": "Nehru Jacket",
             "price": "3955Rs",
             "gender": "Male",
             "category": "Angarkhas-Bandhgalas",
@@ -29,7 +29,7 @@
         },
         {
             "id": 4,
-            "title": "Mens Cream Viscose Blend Kurta Pyjama Set",
+            "title": "Cream Viscose Kurta",
             "price": "2459Rs",
             "gender": "Male",
             "category": "Angarkhas-Bandhgalas",
@@ -38,7 +38,7 @@
         },
         {
             "id": 5,
-            "title": "Mens Maroon, Green And White Cotton Blend Jacket, Kurta",
+            "title": "Cotton Jacket Kurta",
             "price": "2955Rs",
             "gender": "Male",
             "category": "Angarkhas-Bandhgalas",
@@ -47,7 +47,7 @@
         },
         {
             "id": 6,
-            "title": "Mens Viscose Blend Kurta Pyjama Set With Dupatta",
+            "title": "Mens Viscose Kurta Set",
             "price": "3359Rs",
             "gender": "Male",
             "category": "Angarkhas-Bandhgalas",
@@ -56,7 +56,7 @@
         },
         {
             "id": 7,
-            "title": "Mens Banarasi Jacquard Jodhpuri",
+            "title": "Banarasi Jodhpuri",
             "price": "2279Rs",
             "gender": "Male",
             "category": "Angarkhas-Bandhgalas",
@@ -74,7 +74,7 @@
         },
         {
             "id": 9,
-            "title": "Mens Viscose Blend Kurta Pyjama Set With Dupatta",
+            "title": "Mens Viscose Kurta Set",
             "price": "1459Rs",
             "gender": "Male",
             "category": "Dhotis",
@@ -83,7 +83,7 @@
         },
         {
             "id": 10,
-            "title": "Mens Beige Silk Blend Sherwani Set",
+            "title": "Beige Silk Sherwani",
             "price": "1999Rs",
             "gender": "Male",
             "category": "Dhotis",
@@ -92,7 +92,7 @@
         },
         {
             "id": 11,
-            "title": "Mens Neheru Jacket",
+            "title": "Nehru Jacket",
             "price": "1955Rs",
             "gender": "Male",
             "category": "Dhotis",
@@ -101,7 +101,7 @@
         },
         {
             "id": 12,
-            "title": "Mens Cream Viscose Blend Kurta Pyjama Set",
+            "title": "Cream Viscose Kurta",
             "price": "1459Rs",
             "gender": "Male",
             "category": "Dhotis",
@@ -110,7 +110,7 @@
         },
         {
             "id": 13,
-            "title": "Mens Maroon, Green And White Cotton Blend Jacket, Kurta",
+            "title": "Cotton Jacket Kurta",
             "price": "1955Rs",
             "gender": "Male",
             "category": "Dhotis",
@@ -119,7 +119,7 @@
         },
         {
             "id": 14,
-            "title": "Mens Viscose Blend Kurta Pyjama Set With Dupatta",
+            "title": "Mens Viscose Kurta Set",
             "price": "1359Rs",
             "gender": "Male",
             "category": "Dhotis",
@@ -128,7 +128,7 @@
         },
         {
             "id": 15,
-            "title": "Mens Banarasi Jacquard Jodhpuri",
+            "title": "Banarasi Jodhpuri",
             "price": "1279Rs",
             "gender": "Male",
             "category": "Dhotis",
@@ -137,7 +137,7 @@
         },
         {
             "id": 16,
-            "title": "Mens Jodhpuri Bandhgala",
+            "title": "Jodhpuri Bandhgala",
             "price": "1859Rs",
             "gender": "Male",
             "category": "Dhotis",
@@ -146,7 +146,7 @@
         },
         {
             "id": 17,
-            "title": "Full Sleeves Blue Medium Length Pocket Kurta",
+            "title": "Blue Pocket Kurta",
             "price": "1095Rs",
             "gender": "Male",
             "category": "Kurta-Pajama",
@@ -155,7 +155,7 @@
         },
         {
             "id": 18,
-            "title": "Green Mens Solid Cotton Full Sleeves Medium Length Pocket Kurta",
+            "title": "Green Cotton Kurta",
             "price": "995Rs",
             "gender": "Male",
             "category": "Kurta-Pajama",
@@ -164,7 +164,7 @@
         },
         {
             "id": 19,
-            "title": "Symbol Cotton Men's Mid Length Regular Kurta",
+            "title": "Cotton Regular Kurta",
             "price": "1195Rs",
             "gender": "Male",
             "category": "Kurta-Pajama",
@@ -173,7 +173,7 @@
         },
         {
             "id": 20,
-            "title": "Yellow Color Cotton Full Sleeves Medium Length Pocket Kurta",
+            "title": "Yellow Pocket Kurta",
             "price": "899Rs",
             "gender": "Male",
             "category": "Kurta-Pajama",
@@ -182,7 +182,7 @@
         },
         {
             "id": 21,
-            "title": "Mens Maroon Color Pocket Kurta",
+            "title": "Maroon Pocket Kurta",
             "price": "1065Rs",
             "gender": "Male",
             "category": "Kurta-Pajama",
@@ -191,7 +191,7 @@
         },
         {
             "id": 22,
-            "title": "Orange Color Mens Solid Cotton Full Sleeves Medium Length Pocket Kurta",
+            "title": "Orange Cotton Kurta",
             "price": "1209Rs",
             "gender": "Male",
             "category": "Kurta-Pajama",
@@ -200,7 +200,7 @@
         },
         {
             "id": 23,
-            "title": "Fashion Essential Mid Length Printed Kurtas",
+            "title": "Printed Kurta",
             "price": "989Rs",
             "gender": "Male",
             "category": "Kurta-Pajama",
@@ -209,7 +209,7 @@
         },
         {
             "id": 24,
-            "title": "Sky Blue Color Men White Regular Kurta",
+            "title": "Sky Blue Kurta",
             "price": "1095Rs",
             "gender": "Male",
             "category": "Kurta-Pajama",
@@ -218,7 +218,7 @@
         },
         {
             "id": 25,
-            "title": "Blue Color Full Sleeve Knee Length Indo Western Sherwani With Pajama Set",
+            "title": "Blue Indo Sherwani",
             "price": "2459Rs",
             "gender": "Male",
             "category": "Sherwanis",
@@ -227,7 +227,7 @@
         },
         {
             "id": 26,
-            "title": "Men's Orange Indo- Western Kurta Sherwani",
+            "title": "Orange Indo Sherwani",
             "price": "5698Rs",
             "gender": "Male",
             "category": "Sherwanis",
@@ -236,7 +236,7 @@
         },
         {
             "id": 27,
-            "title": "Men's Indo- Western Sherwani Trouser Set, Olive Silk Blend, Woven Design Regular Fit",
+            "title": "Silk Indo Sherwani",
             "price": "5969Rs",
             "gender": "Male",
             "category": "Sherwanis",
@@ -245,7 +245,7 @@
         },
         {
             "id": 28,
-            "title": "Maroon Color Full Sleeve Length Indo Western Sherwani With Pajama Set",
+            "title": "Maroon Indo Sherwani",
             "price": "3989Rs",
             "gender": "Male",
             "category": "Sherwanis",
@@ -254,7 +254,7 @@
         },
         {
             "id": 29,
-            "title": "Navy Blue Men's Kurta Indo- Western Sherwani Trouser Set",
+            "title": "Navy Indo Sherwani",
             "price": "2988Rs",
             "gender": "Male",
             "category": "Sherwanis",
@@ -263,7 +263,7 @@
         },
         {
             "id": 30,
-            "title": "Men's Ethnic Wear Silk Blend Woven Design Regular Fit",
+            "title": "Silk Blend Sherwani",
             "price": "6298Rs",
             "gender": "Male",
             "category": "Sherwanis",
@@ -272,7 +272,7 @@
         },
         {
             "id": 31,
-            "title": "Men's Beige Silk Blend Sherwani Only Top",
+            "title": "Beige Silk Sherwani",
             "price": "4998Rs",
             "gender": "Male",
             "category": "Sherwanis",
@@ -281,7 +281,7 @@
         },
         {
             "id": 32,
-            "title": "Wine Color Men's Full Sleeve Knee Length Sherwani With Pajama Set",
+            "title": "Wine Sherwani Set",
             "price": "3798Rs",
             "gender": "Male",
             "category": "Sherwanis",
@@ -292,7 +292,7 @@
     "Womens": [
         {
             "id": 33,
-            "title": "Rayon Floral Printed Embroidered Kurta Setwith Dupatta",
+            "title": "Rayon Floral Printed Embroidered",
             "price": "2199Rs",
             "gender": "Women",
             "category": "Dupattas",
@@ -301,7 +301,7 @@
         },
         {
             "id": 34,
-            "title": "Viscose Silk Pantand Chinon Printed Dupatta Sets",
+            "title": "Viscose Silk Pantand Chinon",
             "price": "1598Rs",
             "gender": "Women",
             "category": "Dupattas",
@@ -310,7 +310,7 @@
         },
         {
             "id": 35,
-            "title": "Women's Embroidered Printed Chanderi Kurti Pant Dupatta Set",
+            "title": "Women's Embroidered Printed Chanderi",
             "price": "999Rs",
             "gender": "Women",
             "category": "Dupattas",
@@ -319,7 +319,7 @@
         },
         {
             "id": 36,
-            "title": "Embroidered Printed Chanderi Kurti Pant Dupatta Set",
+            "title": "Embroidered Printed Chanderi Kurti",
             "price": "1289Rs",
             "gender": "Women",
             "category": "Dupattas",
@@ -337,7 +337,7 @@
         },
         {
             "id": 38,
-            "title": "Embroidered Straight Kurtawith Rayon Pantand Silk Printed Dupatta Sets",
+            "title": "Embroidered Straight Kurtawith Rayon",
             "price": "890Rs",
             "gender": "Women",
             "category": "Dupattas",
@@ -346,7 +346,7 @@
         },
         {
             "id": 39,
-            "title": "Kurtawith Rayon Pantand Silk Printed Dupatta Sets(",
+            "title": "Kurtawith Rayon Pantand Silk",
             "price": "1189Rs",
             "gender": "Women",
             "category": "Dupattas",
@@ -355,7 +355,7 @@
         },
         {
             "id": 40,
-            "title": "Women's Printed Dupatta| Zari Linen Floral Dupatta",
+            "title": "Women's Printed Dupatta| Zari",
             "price": "1386Rs",
             "gender": "Women",
             "category": "Dupattas",
@@ -364,7 +364,7 @@
         },
         {
             "id": 41,
-            "title": "Embroidered Georgette Readymade Lehenga Choli",
+            "title": "Embroidered Georgette Readymade Lehenga",
             "price": "2596Rs",
             "gender": "Women",
             "category": "Lehengas",
@@ -373,7 +373,7 @@
         },
         {
             "id": 42,
-            "title": "Stunning Beige Silk Lahenga Choli for Wedding",
+            "title": "Stunning Beige Silk Lahenga",
             "price": "1998Rs",
             "gender": "Women",
             "category": "Lehengas",
@@ -382,7 +382,7 @@
         },
         {
             "id": 43,
-            "title": "Net Letest Design Chain Embroderied Work Woman S Flered Semi- Stitched Lehenga Choli",
+            "title": "Net Letest Design Chain",
             "price": "1859Rs",
             "gender": "Women",
             "category": "Lehengas",
@@ -391,7 +391,7 @@
         },
         {
             "id": 44,
-            "title": "Embroidered Semi Stitched Lehenga Choli",
+            "title": "Embroidered Semi Stitched Lehenga",
             "price": "2989Rs",
             "gender": "Women",
             "category": "Lehengas",
@@ -400,7 +400,7 @@
         },
         {
             "id": 45,
-            "title": "Lehenga Choli Patola Printwith Foil Work With Blouse Solid",
+            "title": "Lehenga Choli Patola Printwith",
             "price": "3198Rs",
             "gender": "Women",
             "category": "Lehengas",
@@ -409,7 +409,7 @@
         },
         {
             "id": 46,
-            "title": "Women's Tussar Silk With Patola Print And Foil Work Lehengacholi",
+            "title": "Women's Tussar Silk With",
             "price": "1798Rs",
             "gender": "Women",
             "category": "Lehengas",
@@ -418,7 +418,7 @@
         },
         {
             "id": 47,
-            "title": "White Georgette Zari Embroidered Work Semi- Stitched Lehenga Choli For Women",
+            "title": "White Georgette Zari Embroidered",
             "price": "2496Rs",
             "gender": "Women",
             "category": "Lehengas",
@@ -427,7 +427,7 @@
         },
         {
             "id": 48,
-            "title": "Necwa White Red Unstitch Women's Kanjivaram Pattu Pure Soft Silk Indian",
+            "title": "Necwa White Red Unstitch",
             "price": "2998Rs",
             "gender": "Women",
             "category": "Lehengas",
@@ -436,7 +436,7 @@
         },
         {
             "id": 49,
-            "title": "Women's Georgette Embroidery Anarkali Salwar Kameez",
+            "title": "Women's Georgette Embroidery Anarkali",
             "price": "1892Rs",
             "gender": "Women",
             "category": "SalwarKameez",
@@ -445,7 +445,7 @@
         },
         {
             "id": 50,
-            "title": "Women's Onion Pink Georgette Embroidery Anarkali Salwar Kameez",
+            "title": "Women's Onion Pink Georgette",
             "price": "2749Rs",
             "gender": "Women",
             "category": "SalwarKameez",
@@ -454,7 +454,7 @@
         },
         {
             "id": 51,
-            "title": "Wishful Women's Polyester Kurta, Flared Pant& Dupatta",
+            "title": "Wishful Women's Polyester Kurta,",
             "price": "3248Rs",
             "gender": "Women",
             "category": "SalwarKameez",
@@ -463,7 +463,7 @@
         },
         {
             "id": 52,
-            "title": "Green Chinon Stitched Top With Chinon Dupatta Full Sleeve Embroidered Anarkali Gown",
+            "title": "Green Chinon Stitched Top",
             "price": "2298Rs",
             "gender": "Women",
             "category": "SalwarKameez",
@@ -472,7 +472,7 @@
         },
         {
             "id": 53,
-            "title": "Red Color Women Cotton Salwar Suit Set",
+            "title": "Red Color Women Cotton",
             "price": "3479Rs",
             "gender": "Women",
             "category": "SalwarKameez",
@@ -481,7 +481,7 @@
         },
         {
             "id": 54,
-            "title": "Sky Blue Color Women's Cotton Salwar Suit Set",
+            "title": "Sky Blue Color Women's",
             "price": "2249Rs",
             "gender": "Women",
             "category": "SalwarKameez",
@@ -490,7 +490,7 @@
         },
         {
             "id": 55,
-            "title": "Flared Pant& Dupatta Yellow Color Polyester Blend Womens",
+            "title": "Flared Pant& Dupatta Yellow",
             "price": "2859Rs",
             "gender": "Women",
             "category": "SalwarKameez",
@@ -499,7 +499,7 @@
         },
         {
             "id": 56,
-            "title": "Yellow Color Polyester Blend Womens Salwar Suite Set",
+            "title": "Yellow Color Polyester Blend",
             "price": "3998",
             "gender": "Women",
             "category": "SalwarKameez",
@@ -508,7 +508,7 @@
         },
         {
             "id": 57,
-            "title": "Women's Jacquard Silk Blend Saree Blue Color",
+            "title": "Women's Jacquard Silk Blend",
             "price": "489Rs",
             "gender": "Women",
             "category": "Sarees",
@@ -517,7 +517,7 @@
         },
         {
             "id": 58,
-            "title": "Bright Pink Women's Silk Saree",
+            "title": "Bright Pink Women's Silk",
             "price": "495Rs",
             "gender": "Women",
             "category": "Sarees",
@@ -526,7 +526,7 @@
         },
         {
             "id": 59,
-            "title": "Beautifully Designed Sareesin Green Color",
+            "title": "Beautifully Designed Sareesin Green",
             "price": "699Rs",
             "gender": "Women",
             "category": "Sarees",
@@ -535,7 +535,7 @@
         },
         {
             "id": 60,
-            "title": "Navy Blue Color Banarasi Sareesare Celebratedfortheir Intricate Weaving",
+            "title": "Navy Blue Color Banarasi",
             "price": "958Rs",
             "gender": "Women",
             "category": "Sarees",
@@ -544,7 +544,7 @@
         },
         {
             "id": 61,
-            "title": "Pink Color Women's Banarasi Silk Jacquard Sareewith Unstitched Blouse Piece",
+            "title": "Pink Color Women's Banarasi",
             "price": "1184Rs",
             "gender": "Women",
             "category": "Sarees",
@@ -553,7 +553,7 @@
         },
         {
             "id": 62,
-            "title": "Purpul Color Silk Blend Banarasi Jacquard Saree",
+            "title": "Purpul Color Silk Blend",
             "price": "989Rs",
             "gender": "Women",
             "category": "Sarees",
@@ -562,7 +562,7 @@
         },
         {
             "id": 63,
-            "title": "Women's Red Color Silk Blend Banarasi Jacquard Sareewith Unstitched Blouse",
+            "title": "Women's Red Color Silk",
             "price": "1294Rs",
             "gender": "Women",
             "category": "Sarees",
@@ -571,7 +571,7 @@
         },
         {
             "id": 64,
-            "title": "Violet& Magenta Color Festival, Party, Evening, Casual, Ceremony",
+            "title": "Violet& Magenta Color Festival,",
             "price": "894Rs",
             "gender": "Women",
             "category": "Sarees",
@@ -582,7 +582,7 @@
     "Kids": [
         {
             "id": 65,
-            "title": "Kids Cotton Silk Printed3pc Kurta Pyjama Set",
+            "title": "Kids Cotton Silk Printed3pc",
             "price": "1179Rs",
             "gender": "Kids",
             "category": "boys",
@@ -591,7 +591,7 @@
         },
         {
             "id": 66,
-            "title": "Blue Color Silk Blend Boy' Lavender And Kurta Pyjama Set",
+            "title": "Blue Color Silk Blend",
             "price": "986Rs",
             "gender": "Kids",
             "category": "boys",
@@ -600,7 +600,7 @@
         },
         {
             "id": 67,
-            "title": "Gold Color Kids Silk Ethnic Kurta Patiala Setfor Boys",
+            "title": "Gold Color Kids Silk",
             "price": "897Rs",
             "gender": "Kids",
             "category": "boys",
@@ -609,7 +609,7 @@
         },
         {
             "id": 68,
-            "title": "Kids Cotton Silk Printed3pc Kurta Pyjama Set For Boys",
+            "title": "Kids Cotton Silk Printed3pc",
             "price": "999Rs",
             "gender": "Kids",
             "category": "boys",
@@ -618,7 +618,7 @@
         },
         {
             "id": 69,
-            "title": "Boys' Greenand Rose Gold Kurta Patiala Set",
+            "title": "Boys' Greenand Rose Gold",
             "price": "959Rs",
             "gender": "Kids",
             "category": "boys",
@@ -627,7 +627,7 @@
         },
         {
             "id": 70,
-            "title": "Maroon Boys Kurta Pajamaand Jacket Set",
+            "title": "Maroon Boys Kurta Pajamaand",
             "price": "1498Rs",
             "gender": "Kids",
             "category": "boys",
@@ -636,7 +636,7 @@
         },
         {
             "id": 71,
-            "title": "Ethnic Wear Cotton Printed Kurta Pajama Set For Boys",
+            "title": "Ethnic Wear Cotton Printed",
             "price": "1098Rs",
             "gender": "Kids",
             "category": "boys",
@@ -645,7 +645,7 @@
         },
         {
             "id": 72,
-            "title": "Silk Blend Boy' Lavender And Kurta Pyjama Set",
+            "title": "Silk Blend Boy' Lavender",
             "price": "978Rs",
             "gender": "Kids",
             "category": "boys",
@@ -654,7 +654,7 @@
         },
         {
             "id": 73,
-            "title": "Dress Half Sleeves Readymade Hand Sequins Embroidery Ethnic",
+            "title": "Dress Half Sleeves Readymade",
             "price": "1020Rs",
             "gender": "Kids",
             "category": "girls",
@@ -663,7 +663,7 @@
         },
         {
             "id": 74,
-            "title": "Kids Girls Lehnga Choli Ruffle Pattern Dress Half Sleeves",
+            "title": "Kids Girls Lehnga Choli",
             "price": "1008Rs",
             "gender": "Kids",
             "category": "girls",
@@ -672,7 +672,7 @@
         },
         {
             "id": 75,
-            "title": "Green Color Girls Lehenga Choli",
+            "title": "Green Color Girls Lehenga",
             "price": "1985Rs",
             "gender": "Kids",
             "category": "girls",
@@ -681,7 +681,7 @@
         },
         {
             "id": 76,
-            "title": "Girls Off White Floral Yoke Design Empire Pure Cotton Kurti with Skirt",
+            "title": "Girls Off White Floral",
             "price": "798Rs",
             "gender": "Kids",
             "category": "girls",
@@ -690,7 +690,7 @@
         },
         {
             "id": 77,
-            "title": "Pink Color Girls Kurta & Sharara",
+            "title": "Pink Color Girls Kurta",
             "price": "1493Rs",
             "gender": "Kids",
             "category": "girls",
@@ -699,7 +699,7 @@
         },
         {
             "id": 78,
-            "title": "Pink and Red Color Girl's Polyester Lehenga Choli",
+            "title": "Pink and Red Color",
             "price": "897Rs",
             "gender": "Kids",
             "category": "girls",
@@ -708,7 +708,7 @@
         },
         {
             "id": 79,
-            "title": "Sky Blue Color Girl's Cotton Blend Set Lehenga Choli",
+            "title": "Sky Blue Color Girl's",
             "price": "1883Rs",
             "gender": "Kids",
             "category": "girls",
@@ -717,7 +717,7 @@
         },
         {
             "id": 80,
-            "title": "Kids Lehenga Choli for Girls Cotton Silk Traditional Dress ",
+            "title": "Kids Lehenga Choli for",
             "price": "862Rs",
             "gender": "Kids",
             "category": "girls",
@@ -728,7 +728,7 @@
     "Accessories": [
         {
             "id": 81,
-            "title": "Men's Ethnic Embroidery Jutis and Mojaris for Fashion Shoes with Comfort",
+            "title": "Men's Ethnic Embroidery Jutis",
             "price": "1198Rs",
             "category": "Accessories",
             "subcategory": "Footwear",
@@ -737,7 +737,7 @@
         },
         {
             "id": 82,
-            "title": "Men's Ethnic Genuine Leather for Men",
+            "title": "Men's Ethnic Genuine Leather",
             "price": "653Rs",
             "category": "Accessories",
             "subcategory": "Footwear",
@@ -746,7 +746,7 @@
         },
         {
             "id": 83,
-            "title": "Kolhapuri Chappal for Men Stylish Original Leather",
+            "title": "Kolhapuri Chappal for Men",
             "price": "751Rs",
             "category": "Accessories",
             "subcategory": "Footwear",
@@ -755,7 +755,7 @@
         },
         {
             "id": 84,
-            "title": "Men's Ethnic Embroidery Juttis for Wedding",
+            "title": "Men's Ethnic Embroidery Juttis",
             "price": "1248Rs",
             "category": "Accessories",
             "subcategory": "Footwear",
@@ -764,7 +764,7 @@
         },
         {
             "id": 85,
-            "title": "Women Rajasthani Ethnic Embroidery with Payal Punjabi",
+            "title": "Women Rajasthani Ethnic Embroidery",
             "price": "899Rs",
             "category": "Accessories",
             "subcategory": "Footwear",
@@ -773,7 +773,7 @@
         },
         {
             "id": 86,
-            "title": "Women's One Toe Ethnic Slip- On Flat Chappals",
+            "title": "Women's One Toe Ethnic",
             "price": "632Rs",
             "category": "Accessories",
             "subcategory": "Footwear",
@@ -782,7 +782,7 @@
         },
         {
             "id": 87,
-            "title": " Rangeela Green Kolhapuri Chappal for women ",
+            "title": "Rangeela Green Kolhapuri Chappal",
             "price": "1194Rs",
             "category": "Accessories",
             "subcategory": "Footwear",
@@ -791,7 +791,7 @@
         },
         {
             "id": 88,
-            "title": "Women Traditional Slip- On Flats with Peacock",
+            "title": "Women Traditional Slip- On",
             "price": "899",
             "category": "Accessories",
             "subcategory": "Footwear",
@@ -800,7 +800,7 @@
         },
         {
             "id": 89,
-            "title": "Men's Jewellery Designer Wedding Multi Strand Maroon and White Color",
+            "title": "Men's Jewellery Designer Wedding",
             "price": "1017Rs",
             "category": "Accessories",
             "subcategory": "Jewellery",
@@ -809,7 +809,7 @@
         },
         {
             "id": 90,
-            "title": "Pearl Necklace Jewellery for Groom Dulha Moti Mala Haar for Men",
+            "title": "Pearl Necklace Jewellery for",
             "price": "983Rs",
             "category": "Accessories",
             "subcategory": "Jewellery",
@@ -818,7 +818,7 @@
         },
         {
             "id": 91,
-            "title": "Men's Crystal Square Stone Cubic Zirconia Ring ",
+            "title": "Men's Crystal Square Stone",
             "price": "649Rs",
             "category": "Accessories",
             "subcategory": "Jewellery",
@@ -827,7 +827,7 @@
         },
         {
             "id": 92,
-            "title": "Gold Plated Stainless Steel Dual Link Chain Bracelet for Men",
+            "title": "Gold Plated Stainless Steel",
             "price": "981Rs",
             "category": "Accessories",
             "subcategory": "Jewellery",
@@ -836,7 +836,7 @@
         },
         {
             "id": 93,
-            "title": "Latest Matte Finish Combo Design Stylish Necklace Set",
+            "title": "Latest Matte Finish Combo",
             "price": "1584Rs",
             "category": "Accessories",
             "subcategory": "Jewellery",
@@ -845,7 +845,7 @@
         },
         {
             "id": 94,
-            "title": "Gold Plated Traditional Necklace Set",
+            "title": "Gold Plated Traditional Necklace",
             "price": "879Rs",
             "category": "Accessories",
             "subcategory": "Jewellery",
@@ -854,7 +854,7 @@
         },
         {
             "id": 95,
-            "title": "Gold Plated Kundan Choker Necklace Earrings with Maang",
+            "title": "Gold Plated Kundan Choker",
             "price": "1990Rs",
             "category": "Accessories",
             "subcategory": "Jewellery",
@@ -863,7 +863,7 @@
         },
         {
             "id": 96,
-            "title": "International Kundan A D Style Alloy Necklace with Earrings & Maang Tikka for Women",
+            "title": "International Kundan A D",
             "price": "2009Rs",
             "category": "Accessories",
             "subcategory": "Jewellery",
@@ -881,7 +881,7 @@
         },
         {
             "id": 98,
-            "title": "Warm Lohi Shawl for Men and Boys ",
+            "title": "Warm Lohi Shawl for",
             "price": "639Rs",
             "category": "Accessories",
             "subcategory": "Stoles",
@@ -890,7 +890,7 @@
         },
         {
             "id": 99,
-            "title": "Cotton Viscose Abstract Printed Soft & Stylish",
+            "title": "Cotton Viscose Abstract Printed",
             "price": "893Rs",
             "category": "Accessories",
             "subcategory": "Stoles",
@@ -899,7 +899,7 @@
         },
         {
             "id": 100,
-            "title": " Women's Wool Self Reversible Stole Check Design",
+            "title": "Women's Wool Self Reversible",
             "price": "598Rs",
             "category": "Accessories",
             "subcategory": "Stoles",
